@@ -1691,3 +1691,1356 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.13-20.17.11:724][174]LogPlayLevel: Display: Destroying online subsystem :Context_20
 [2019.10.13-20.17.11:724][174]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2019.10.13-20.17.11:724][174]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.13-20.21.56:946][645]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.21.56:973][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.21.56:973][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.21.56:973][645]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:21:56 AM)
+[2019.10.13-20.21.56:974][645]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.21.56:975][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001416s)
+[2019.10.13-20.21.56:976][645]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.21.56:976][645]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2019.10.13-20.21.56:977][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002928s)
+[2019.10.13-20.21.57:075][645]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2019.10.13-20.21.57:076][645]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.21.57:077][645]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.21.57
+[2019.10.13-20.21.57:077][645]LogWorld: Bringing up level for play took: 0.000687
+[2019.10.13-20.21.57:077][645]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:077][645]LogTemp: Display: ParseSettings for IpNetDriver_24
+[2019.10.13-20.21.57:077][645]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:078][645]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.21.57:078][645]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.21.57:078][645]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.21.57:078][645]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.21.57:078][645]LogNet: GameNetDriver IpNetDriver_24 IpNetDriver listening on port 17777
+[2019.10.13-20.21.57:079][645]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.21.57:079][645]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.21.57:079][645]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu 0.492
+[2019.10.13-20.21.57:103][645]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.21.57:133][645]LogInit: FAudioDevice initialized.
+[2019.10.13-20.21.57:146][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.21.57:147][645]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.21.57:147][645]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:147][645]LogTemp: Display: ParseSettings for IpNetDriver_25
+[2019.10.13-20.21.57:147][645]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.21.57:148][645]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.21.57:148][645]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.21.57:148][645]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.21.57:151][645]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.565
+[2019.10.13-20.21.57:160][645]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.21.57:173][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.21.57:174][645]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.21.57:174][645]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:174][645]LogTemp: Display: ParseSettings for IpNetDriver_26
+[2019.10.13-20.21.57:174][645]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.21.57:175][645]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.21.57:175][645]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.21.57:175][645]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.21.57:179][645]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.592
+[2019.10.13-20.21.57:189][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.21.57:189][645]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53320
+[2019.10.13-20.21.57:189][645]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 043056233245176119209090119031203222147111167030087076230066
+[2019.10.13-20.21.57:190][645]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53321
+[2019.10.13-20.21.57:190][645]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 131175080091173086040023028043048204195212152049235177017044
+[2019.10.13-20.21.57:191][645]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.13-20.21.57:193][645]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 043056233245176119209090119031203222147111167030087076230066
+[2019.10.13-20.21.57:194][645]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 131175080091173086040023028043048204195212152049235177017044
+[2019.10.13-20.21.57:238][646]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53320
+[2019.10.13-20.21.57:238][646]LogHandshake: SendChallengeAck. InCookie: 043056233245176119209090119031203222147111167030087076230066
+[2019.10.13-20.21.57:238][646]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53320
+[2019.10.13-20.21.57:238][646]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.21.57:238][646]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:21:57, [UNetConnection] RemoteAddr: 127.0.0.1:53320, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:238][646]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53320, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:239][646]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53321
+[2019.10.13-20.21.57:239][646]LogHandshake: SendChallengeAck. InCookie: 131175080091173086040023028043048204195212152049235177017044
+[2019.10.13-20.21.57:239][646]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53321
+[2019.10.13-20.21.57:239][646]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.21.57:239][646]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:21:57, [UNetConnection] RemoteAddr: 127.0.0.1:53321, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:239][646]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53321, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:240][646]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: PendingNetDriver IpNetDriver_25, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:240][646]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: PendingNetDriver IpNetDriver_26, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.21.57:258][647]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.21.57:259][647]LogNet: Remote platform little endian=1
+[2019.10.13-20.21.57:259][647]LogNet: This platform little endian=1
+[2019.10.13-20.21.57:259][647]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.21.57:259][647]LogNet: Remote platform little endian=1
+[2019.10.13-20.21.57:259][647]LogNet: This platform little endian=1
+[2019.10.13-20.21.57:260][647]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.13-20.21.57:262][647]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.13-20.21.57:275][648]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189 userId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189 platform: NULL
+[2019.10.13-20.21.57:275][648]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0 userId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0 platform: NULL
+[2019.10.13-20.21.57:276][648]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.21.57:276][648]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.21.57:276][648]LogWorld: BeginTearingDown for /Temp/Untitled_13
+[2019.10.13-20.21.57:276][648]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.21.57:376][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2019.10.13-20.21.57:379][648]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.21.57:379][648]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:381][648]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.21.57
+[2019.10.13-20.21.57:381][648]LogWorld: Bringing up level for play took: 0.000440
+[2019.10.13-20.21.57:382][648]LogLoad: Took 0.105658 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.21.57:382][648]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.21.57:383][648]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.21.57:383][648]LogWorld: BeginTearingDown for /Temp/Untitled_14
+[2019.10.13-20.21.57:383][648]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.21.57:482][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.10.13-20.21.57:485][648]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.21.57:486][648]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.21.57:487][648]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.21.57
+[2019.10.13-20.21.57:487][648]LogWorld: Bringing up level for play took: 0.000290
+[2019.10.13-20.21.57:487][648]LogLoad: Took 0.104306 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.21.57:505][649]LogNet: Client netspeed is 10000
+[2019.10.13-20.21.57:505][649]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189?SplitscreenCount=1
+[2019.10.13-20.21.57:506][649]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.21.57:507][649]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.21.57:507][649]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.21.57:507][649]LogNet: Join succeeded: Wookiee-Desktop-9407
+[2019.10.13-20.21.57:507][649]LogNet: Client netspeed is 10000
+[2019.10.13-20.21.57:507][649]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0?SplitscreenCount=1
+[2019.10.13-20.21.57:508][649]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.21.57:508][649]LogNet: Join succeeded: Wookiee-Desktop-E947
+[2019.10.13-20.21.57:629][656]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.21.57:632][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.21.57:675][659]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.21.57:730][661]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.21.57:730][661]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.22.04:512][958]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.22.04:515][958]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.22.04:515][958]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.22.04:515][958]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.22.04:516][958]LogNet: World NetDriver shutdown IpNetDriver_25 [GameNetDriver]
+[2019.10.13-20.22.04:516][958]LogNet: DestroyNamedNetDriver IpNetDriver_25 [GameNetDriver]
+[2019.10.13-20.22.04:516][958]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189, Channels: 11, Time: 2019.10.13-20.22.04
+[2019.10.13-20.22.04:516][958]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_24, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189
+[2019.10.13-20.22.04:516][958]LogExit: GameNetDriver IpNetDriver_25 shut down
+[2019.10.13-20.22.04:516][958]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.22.04:617][958]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.10.13-20.22.04:665][958]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.22.04:665][958]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.22.04:665][958]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.22.04:666][958]LogTemp: Display: ParseSettings for IpNetDriver_27
+[2019.10.13-20.22.04:666][958]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.22.04:666][958]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.22.04:666][958]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.22.04:667][958]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.22.04:667][958]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.22.04:667][958]LogNet: GameNetDriver IpNetDriver_27 IpNetDriver listening on port 7777
+[2019.10.13-20.22.04:703][958]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.22.04
+[2019.10.13-20.22.04:703][958]LogWorld: Bringing up level for play took: 0.035254
+[2019.10.13-20.22.04:704][958]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.22.04:704][958]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.22.04:704][958]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.22.04:705][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_19.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.22.04:707][958]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.22.04:707][958]LogLoad: Took 0.191397 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.22.04:735][959]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.22.04:735][959]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53320, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189
+[2019.10.13-20.22.04:735][959]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53320, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189, Channels: 11, Time: 2019.10.13-20.22.04
+[2019.10.13-20.22.04:735][959]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53320, Name: IpConnection_26, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9407FE654C0D5E6CD9A0D08C842F3189
+[2019.10.13-20.22.04:736][959]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.22.04:738][959]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.22.09:815][256]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.22.30:138][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.24.58:268][165]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.24.58:332][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.24.58:332][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.24.58:332][165]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.24.58:360][165]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.24.58:412][165]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.24.58:422][165]LogNet: World NetDriver shutdown IpNetDriver_26 [GameNetDriver]
+[2019.10.13-20.24.58:422][165]LogNet: DestroyNamedNetDriver IpNetDriver_26 [GameNetDriver]
+[2019.10.13-20.24.58:422][165]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_26, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0, Channels: 9, Time: 2019.10.13-20.24.58
+[2019.10.13-20.24.58:422][165]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_25, Driver: GameNetDriver IpNetDriver_26, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0
+[2019.10.13-20.24.58:422][165]LogExit: GameNetDriver IpNetDriver_26 shut down
+[2019.10.13-20.24.58:423][165]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.24.58:424][165]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.24.58:433][165]LogNet: World NetDriver shutdown IpNetDriver_27 [GameNetDriver]
+[2019.10.13-20.24.58:433][165]LogNet: DestroyNamedNetDriver IpNetDriver_27 [GameNetDriver]
+[2019.10.13-20.24.58:433][165]LogExit: GameNetDriver IpNetDriver_27 shut down
+[2019.10.13-20.24.58:434][165]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.24.58:434][165]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.24.58:434][165]LogNet: World NetDriver shutdown IpNetDriver_24 [GameNetDriver]
+[2019.10.13-20.24.58:434][165]LogNet: DestroyNamedNetDriver IpNetDriver_24 [GameNetDriver]
+[2019.10.13-20.24.58:435][165]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53321, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0
+[2019.10.13-20.24.58:435][165]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53321, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0, Channels: 9, Time: 2019.10.13-20.24.58
+[2019.10.13-20.24.58:435][165]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53321, Name: IpConnection_27, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-E947AFB84F69B405C0D830996E9E96B0
+[2019.10.13-20.24.58:435][165]LogExit: GameNetDriver IpNetDriver_24 shut down
+[2019.10.13-20.24.58:436][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.24.58:436][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.24.58:550][165]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.10.13-20.24.58:588][166]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.13-20.24.58:588][166]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.13-20.24.58:588][166]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.13-20.36.46:974][224]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Multiplayer/Blueprints/GI_MP_Steam.GI_MP_Steam
+[2019.10.13-20.36.55:530][679]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.37.06:775][309]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Blueprints/bp_char_master.bp_char_master
+[2019.10.13-20.43.01:452][982]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.10.13-20.43.01:452][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Multiplayer/Maps/MP_mainMenu' took 0.101
+[2019.10.13-20.43.01:455][982]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Multiplayer/Widgets/W_PauseMenu] ([1] browsable assets)...
+[2019.10.13-20.43.01:455][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Multiplayer/Widgets/W_PauseMenu]
+[2019.10.13-20.43.01:554][982]LogSavePackage: Moving '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/W_PauseMenu_Auto18E9517544090EEA108E8BBB52C959885.tmp' to '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/Autosaves/Game/Framework/Multiplayer/Widgets/W_PauseMenu_Auto1.uasset'
+[2019.10.13-20.43.01:557][982]LogFileHelpers: Auto-saving content packages took 0.103
+[2019.10.13-20.46.46:084][717]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-20.46.46:213][717]LogUObjectHash: Compacting FUObjectHashTables data took  10.44ms
+[2019.10.13-20.47.04:135][761]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.13-20.47.31:009][331]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-20.47.31:134][331]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2019.10.13-20.47.35:162][556]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.47.35:196][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.47.35:196][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.47.35:196][556]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:47:35 AM)
+[2019.10.13-20.47.35:197][556]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.47.35:198][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001405s)
+[2019.10.13-20.47.35:199][556]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.47.35:200][556]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2019.10.13-20.47.35:200][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002978s)
+[2019.10.13-20.47.35:303][556]LogUObjectHash: Compacting FUObjectHashTables data took   9.88ms
+[2019.10.13-20.47.35:305][556]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.47.35:306][556]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.47.35
+[2019.10.13-20.47.35:307][556]LogWorld: Bringing up level for play took: 0.000521
+[2019.10.13-20.47.35:307][556]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:307][556]LogTemp: Display: ParseSettings for IpNetDriver_28
+[2019.10.13-20.47.35:307][556]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:307][556]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.47.35:307][556]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.47.35:308][556]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.47.35:308][556]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.35:308][556]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2019.10.13-20.47.35:308][556]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.47.35:308][556]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.47.35:308][556]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu 0.722
+[2019.10.13-20.47.35:330][556]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.47.35:348][556]LogInit: FAudioDevice initialized.
+[2019.10.13-20.47.35:361][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.47.35:362][556]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.47.35:362][556]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:362][556]LogTemp: Display: ParseSettings for IpNetDriver_29
+[2019.10.13-20.47.35:362][556]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.47.35:363][556]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.47.35:363][556]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.35:363][556]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.47.35:366][556]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.779
+[2019.10.13-20.47.35:377][556]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.47.35:390][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.47.35:390][556]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.47.35:391][556]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:391][556]LogTemp: Display: ParseSettings for IpNetDriver_30
+[2019.10.13-20.47.35:391][556]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.47.35:392][556]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.47.35:392][556]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.35:392][556]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.47.35:394][556]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.808
+[2019.10.13-20.47.35:402][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.47.35:403][556]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50107
+[2019.10.13-20.47.35:403][556]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 229082238161097070143143044160130111093201010232045070159047
+[2019.10.13-20.47.35:403][556]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50108
+[2019.10.13-20.47.35:403][556]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 129146224186059166108022071027027230005246005182217018141103
+[2019.10.13-20.47.35:404][556]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.10.13-20.47.35:406][556]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 229082238161097070143143044160130111093201010232045070159047
+[2019.10.13-20.47.35:407][556]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 129146224186059166108022071027027230005246005182217018141103
+[2019.10.13-20.47.35:449][557]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50107
+[2019.10.13-20.47.35:449][557]LogHandshake: SendChallengeAck. InCookie: 229082238161097070143143044160130111093201010232045070159047
+[2019.10.13-20.47.35:449][557]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50107
+[2019.10.13-20.47.35:450][557]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.35:450][557]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:47:35, [UNetConnection] RemoteAddr: 127.0.0.1:50107, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:450][557]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50107, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:450][557]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50108
+[2019.10.13-20.47.35:450][557]LogHandshake: SendChallengeAck. InCookie: 129146224186059166108022071027027230005246005182217018141103
+[2019.10.13-20.47.35:450][557]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50108
+[2019.10.13-20.47.35:451][557]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.35:451][557]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:47:35, [UNetConnection] RemoteAddr: 127.0.0.1:50108, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:451][557]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50108, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:452][557]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: PendingNetDriver IpNetDriver_29, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:453][557]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: PendingNetDriver IpNetDriver_30, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.47.35:469][558]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.47.35:469][558]LogNet: Remote platform little endian=1
+[2019.10.13-20.47.35:469][558]LogNet: This platform little endian=1
+[2019.10.13-20.47.35:470][558]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.47.35:470][558]LogNet: Remote platform little endian=1
+[2019.10.13-20.47.35:470][558]LogNet: This platform little endian=1
+[2019.10.13-20.47.35:471][558]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.10.13-20.47.35:474][558]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.10.13-20.47.35:487][559]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6 userId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6 platform: NULL
+[2019.10.13-20.47.35:488][559]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C userId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C platform: NULL
+[2019.10.13-20.47.35:489][559]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.47.35:489][559]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.47.35:489][559]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2019.10.13-20.47.35:489][559]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.47.35:591][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.10.13-20.47.35:596][559]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.47.35:596][559]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:597][559]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.47.35
+[2019.10.13-20.47.35:597][559]LogWorld: Bringing up level for play took: 0.000268
+[2019.10.13-20.47.35:598][559]LogLoad: Took 0.108658 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.47.35:598][559]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.47.35:598][559]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.47.35:598][559]LogWorld: BeginTearingDown for /Temp/Untitled_16
+[2019.10.13-20.47.35:598][559]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.47.35:696][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.10.13-20.47.35:699][559]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.47.35:700][559]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.35:700][559]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.47.35
+[2019.10.13-20.47.35:701][559]LogWorld: Bringing up level for play took: 0.000272
+[2019.10.13-20.47.35:701][559]LogLoad: Took 0.102725 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.47.35:722][560]LogNet: Client netspeed is 10000
+[2019.10.13-20.47.35:723][560]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6?SplitscreenCount=1
+[2019.10.13-20.47.35:723][560]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.35:724][560]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.47.35:725][560]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.47.35:725][560]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.47.35:725][560]LogNet: Join succeeded: Wookiee-Desktop-8E6F
+[2019.10.13-20.47.35:725][560]LogNet: Client netspeed is 10000
+[2019.10.13-20.47.35:725][560]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C?SplitscreenCount=1
+[2019.10.13-20.47.35:726][560]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.35:726][560]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.47.35:726][560]LogNet: Join succeeded: Wookiee-Desktop-FE7E
+[2019.10.13-20.47.35:849][566]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.35:853][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.47.35:886][568]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.35:903][569]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.35:943][571]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.47.39:092][759]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.47.39:096][759]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.47.39:096][759]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.47.39:096][759]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.47.39:096][759]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2019.10.13-20.47.39:096][759]LogNet: DestroyNamedNetDriver IpNetDriver_29 [GameNetDriver]
+[2019.10.13-20.47.39:096][759]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6, Channels: 11, Time: 2019.10.13-20.47.39
+[2019.10.13-20.47.39:096][759]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6
+[2019.10.13-20.47.39:096][759]LogExit: GameNetDriver IpNetDriver_29 shut down
+[2019.10.13-20.47.39:096][759]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.47.39:205][759]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.10.13-20.47.39:259][759]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.47.39:260][759]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.47.39:260][759]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.39:260][759]LogTemp: Display: ParseSettings for IpNetDriver_31
+[2019.10.13-20.47.39:260][759]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.47.39:260][759]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.47.39:260][759]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.47.39:261][759]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.47.39:261][759]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.47.39:261][759]LogNet: GameNetDriver IpNetDriver_31 IpNetDriver listening on port 7777
+[2019.10.13-20.47.39:371][759]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.47.39
+[2019.10.13-20.47.39:372][759]LogWorld: Bringing up level for play took: 0.110229
+[2019.10.13-20.47.39:374][759]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.47.39:374][759]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.47.39:374][759]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.47.39:375][759]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_22.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.47.39:377][759]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.47.39:377][759]LogLoad: Took 0.280923 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.47.39:395][760]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.47.39:396][760]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50107, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6
+[2019.10.13-20.47.39:396][760]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50107, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6, Channels: 11, Time: 2019.10.13-20.47.39
+[2019.10.13-20.47.39:396][760]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50107, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-8E6FF958464D08127190AAAB2EC0DAB6
+[2019.10.13-20.47.39:396][760]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.47.39:397][760]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.47.44:501][ 59]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.47.46:302][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.49.32:602][321]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.32:602][321]LogEditorTransaction: Undo Edit Padding
+[2019.10.13-20.49.33:279][338]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.33:279][338]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.49.33:849][366]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.33:849][366]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.49.34:530][404]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.34:530][404]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.49.35:294][447]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.35:294][447]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.49.35:890][480]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.35:890][480]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.49.36:536][516]Cmd: TRANSACTION UNDO
+[2019.10.13-20.49.36:536][516]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12B8AF41-483E-8D7E-4518-A08D9BBE21C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=04fd7c6a48b9533f23c2038677196ef7%7Ca384bea0cc3d40bfbab9b2690e83468f%7Ca9aa353f-64ed-45b5-87be-13604f3681aa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: request failed, libcurl error: 0 (No error)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ac14f47f70 [can pipeline])
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.16.28) port 443 (#22))
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 7 (Closing connection 22)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: 000001AC63D99800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-20.50.13:065][667]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12B8AF41-483E-8D7E-4518-A08D9BBE21C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=04fd7c6a48b9533f23c2038677196ef7%7Ca384bea0cc3d40bfbab9b2690e83468f%7Ca9aa353f-64ed-45b5-87be-13604f3681aa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-20.51.46:799][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.51.46:799][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.51.46:799][221]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.51.46:820][221]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.51.46:872][221]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.51.46:880][221]LogNet: World NetDriver shutdown IpNetDriver_30 [GameNetDriver]
+[2019.10.13-20.51.46:880][221]LogNet: DestroyNamedNetDriver IpNetDriver_30 [GameNetDriver]
+[2019.10.13-20.51.46:880][221]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_30, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C, Channels: 9, Time: 2019.10.13-20.51.46
+[2019.10.13-20.51.46:880][221]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_30, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C
+[2019.10.13-20.51.46:880][221]LogExit: GameNetDriver IpNetDriver_30 shut down
+[2019.10.13-20.51.46:881][221]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.51.46:882][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.51.46:900][221]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.51.46:951][221]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.51.46:959][221]LogNet: World NetDriver shutdown IpNetDriver_31 [GameNetDriver]
+[2019.10.13-20.51.46:959][221]LogNet: DestroyNamedNetDriver IpNetDriver_31 [GameNetDriver]
+[2019.10.13-20.51.46:960][221]LogExit: GameNetDriver IpNetDriver_31 shut down
+[2019.10.13-20.51.46:960][221]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.51.46:961][221]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.51.46:961][221]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2019.10.13-20.51.46:961][221]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2019.10.13-20.51.46:961][221]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50108, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C
+[2019.10.13-20.51.46:961][221]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50108, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C, Channels: 9, Time: 2019.10.13-20.51.46
+[2019.10.13-20.51.46:961][221]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50108, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-FE7E41A14B88DD8D26241BADC338DA2C
+[2019.10.13-20.51.46:962][221]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2019.10.13-20.51.46:963][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.51.46:963][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.51.47:088][221]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2019.10.13-20.51.47:108][222]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.13-20.51.47:108][222]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.13-20.51.47:108][222]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.13-20.51.56:231][759]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-20.51.56:356][759]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2019.10.13-20.53.23:546][937]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-20.53.23:684][937]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2019.10.13-20.53.26:643][ 99]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.53.26:676][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.26:676][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.53.26:677][ 99]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:53:26 AM)
+[2019.10.13-20.53.26:677][ 99]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.53.26:679][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001424s)
+[2019.10.13-20.53.26:680][ 99]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.26:680][ 99]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2019.10.13-20.53.26:680][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002909s)
+[2019.10.13-20.53.26:790][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2019.10.13-20.53.26:793][ 99]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.53.26:795][ 99]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.26
+[2019.10.13-20.53.26:796][ 99]LogWorld: Bringing up level for play took: 0.000714
+[2019.10.13-20.53.26:796][ 99]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.26:796][ 99]LogTemp: Display: ParseSettings for IpNetDriver_32
+[2019.10.13-20.53.26:796][ 99]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.26:796][ 99]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.53.26:796][ 99]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.53.26:797][ 99]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.53.26:797][ 99]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.26:797][ 99]LogNet: GameNetDriver IpNetDriver_32 IpNetDriver listening on port 17777
+[2019.10.13-20.53.26:797][ 99]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.26:797][ 99]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.26:797][ 99]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu 0.21
+[2019.10.13-20.53.26:824][ 99]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.53.26:845][ 99]LogInit: FAudioDevice initialized.
+[2019.10.13-20.53.26:860][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.53.26:860][ 99]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.53.26:861][ 99]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.26:861][ 99]LogTemp: Display: ParseSettings for IpNetDriver_33
+[2019.10.13-20.53.26:861][ 99]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.53.26:862][ 99]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.53.26:863][ 99]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.26:863][ 99]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.53.26:865][ 99]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.278
+[2019.10.13-20.53.26:876][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.53.26:892][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.53.26:892][ 99]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.53.26:892][ 99]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.26:893][ 99]LogTemp: Display: ParseSettings for IpNetDriver_34
+[2019.10.13-20.53.26:893][ 99]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.53.26:894][ 99]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.53.26:895][ 99]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.26:895][ 99]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.53.26:898][ 99]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.311
+[2019.10.13-20.53.26:908][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.26:908][ 99]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63176
+[2019.10.13-20.53.26:908][ 99]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 165093227107215190164134204095174022132161034200047028222219
+[2019.10.13-20.53.26:908][ 99]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63177
+[2019.10.13-20.53.26:909][ 99]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 090196194049120191183122065014131111176088136017156164238174
+[2019.10.13-20.53.26:910][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.10.13-20.53.26:912][ 99]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 165093227107215190164134204095174022132161034200047028222219
+[2019.10.13-20.53.26:914][ 99]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 090196194049120191183122065014131111176088136017156164238174
+[2019.10.13-20.53.26:960][100]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63176
+[2019.10.13-20.53.26:960][100]LogHandshake: SendChallengeAck. InCookie: 165093227107215190164134204095174022132161034200047028222219
+[2019.10.13-20.53.26:960][100]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63176
+[2019.10.13-20.53.26:961][100]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.26:961][100]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:53:26, [UNetConnection] RemoteAddr: 127.0.0.1:63176, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:961][100]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63176, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:961][100]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63177
+[2019.10.13-20.53.26:962][100]LogHandshake: SendChallengeAck. InCookie: 090196194049120191183122065014131111176088136017156164238174
+[2019.10.13-20.53.26:962][100]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63177
+[2019.10.13-20.53.26:962][100]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.26:963][100]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:53:26, [UNetConnection] RemoteAddr: 127.0.0.1:63177, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:963][100]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63177, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:963][100]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: PendingNetDriver IpNetDriver_33, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:964][100]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: PendingNetDriver IpNetDriver_34, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.26:980][101]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.53.26:980][101]LogNet: Remote platform little endian=1
+[2019.10.13-20.53.26:980][101]LogNet: This platform little endian=1
+[2019.10.13-20.53.26:981][101]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.53.26:981][101]LogNet: Remote platform little endian=1
+[2019.10.13-20.53.26:981][101]LogNet: This platform little endian=1
+[2019.10.13-20.53.26:981][101]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.10.13-20.53.26:984][101]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.10.13-20.53.26:995][102]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053 userId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053 platform: NULL
+[2019.10.13-20.53.26:995][102]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B userId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B platform: NULL
+[2019.10.13-20.53.26:996][102]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.53.26:996][102]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.53.26:996][102]LogWorld: BeginTearingDown for /Temp/Untitled_17
+[2019.10.13-20.53.26:996][102]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.27:099][102]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.10.13-20.53.27:104][102]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.27:104][102]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.27:105][102]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.27
+[2019.10.13-20.53.27:105][102]LogWorld: Bringing up level for play took: 0.000290
+[2019.10.13-20.53.27:106][102]LogLoad: Took 0.109582 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.53.27:106][102]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.53.27:107][102]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.53.27:107][102]LogWorld: BeginTearingDown for /Temp/Untitled_18
+[2019.10.13-20.53.27:107][102]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.27:199][102]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.10.13-20.53.27:202][102]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.27:203][102]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.27:204][102]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.27
+[2019.10.13-20.53.27:204][102]LogWorld: Bringing up level for play took: 0.000434
+[2019.10.13-20.53.27:204][102]LogLoad: Took 0.097526 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.53.27:222][103]LogNet: Client netspeed is 10000
+[2019.10.13-20.53.27:222][103]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053?SplitscreenCount=1
+[2019.10.13-20.53.27:224][103]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.27:224][103]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.53.27:225][103]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.27:226][103]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.27:226][103]LogNet: Join succeeded: Wookiee-Desktop-195A
+[2019.10.13-20.53.27:226][103]LogNet: Client netspeed is 10000
+[2019.10.13-20.53.27:226][103]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B?SplitscreenCount=1
+[2019.10.13-20.53.27:226][103]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.27:226][103]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.53.27:227][103]LogNet: Join succeeded: Wookiee-Desktop-C938
+[2019.10.13-20.53.27:386][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.53.27:415][114]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.27:447][116]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.27:480][118]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.27:498][119]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.28:813][198]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.53.28:817][198]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.53.28:817][198]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.53.28:817][198]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.53.28:817][198]LogNet: World NetDriver shutdown IpNetDriver_33 [GameNetDriver]
+[2019.10.13-20.53.28:817][198]LogNet: DestroyNamedNetDriver IpNetDriver_33 [GameNetDriver]
+[2019.10.13-20.53.28:817][198]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_33, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053, Channels: 11, Time: 2019.10.13-20.53.28
+[2019.10.13-20.53.28:817][198]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_33, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053
+[2019.10.13-20.53.28:817][198]LogExit: GameNetDriver IpNetDriver_33 shut down
+[2019.10.13-20.53.28:818][198]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.28:917][198]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2019.10.13-20.53.28:973][198]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.53.28:974][198]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.53.28:974][198]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.28:974][198]LogTemp: Display: ParseSettings for IpNetDriver_35
+[2019.10.13-20.53.28:974][198]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.28:975][198]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.53.28:975][198]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.53.28:976][198]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.53.28:976][198]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.28:977][198]LogNet: GameNetDriver IpNetDriver_35 IpNetDriver listening on port 7777
+[2019.10.13-20.53.29:010][198]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.53.29
+[2019.10.13-20.53.29:011][198]LogWorld: Bringing up level for play took: 0.033226
+[2019.10.13-20.53.29:012][198]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.29:012][198]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.29:012][198]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.29:014][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_25.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.53.29:015][198]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.29:015][198]LogLoad: Took 0.198093 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.53.29:032][199]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.53.29:033][199]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63176, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053
+[2019.10.13-20.53.29:033][199]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63176, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053, Channels: 11, Time: 2019.10.13-20.53.29
+[2019.10.13-20.53.29:033][199]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63176, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-195A73D24DE71680E31265B89FD0A053
+[2019.10.13-20.53.29:034][199]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.53.29:035][199]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.53.32:519][407]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.53.34:099][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.53.46:863][261]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.53.46:916][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.46:916][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.53.46:916][261]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.53.46:938][261]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.53.46:990][261]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.46:999][261]LogNet: World NetDriver shutdown IpNetDriver_34 [GameNetDriver]
+[2019.10.13-20.53.46:999][261]LogNet: DestroyNamedNetDriver IpNetDriver_34 [GameNetDriver]
+[2019.10.13-20.53.46:999][261]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_34, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B, Channels: 9, Time: 2019.10.13-20.53.46
+[2019.10.13-20.53.46:999][261]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_34, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B
+[2019.10.13-20.53.46:999][261]LogExit: GameNetDriver IpNetDriver_34 shut down
+[2019.10.13-20.53.47:000][261]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.53.47:001][261]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.47:009][261]LogNet: World NetDriver shutdown IpNetDriver_35 [GameNetDriver]
+[2019.10.13-20.53.47:010][261]LogNet: DestroyNamedNetDriver IpNetDriver_35 [GameNetDriver]
+[2019.10.13-20.53.47:010][261]LogExit: GameNetDriver IpNetDriver_35 shut down
+[2019.10.13-20.53.47:011][261]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.53.47:011][261]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.47:011][261]LogNet: World NetDriver shutdown IpNetDriver_32 [GameNetDriver]
+[2019.10.13-20.53.47:011][261]LogNet: DestroyNamedNetDriver IpNetDriver_32 [GameNetDriver]
+[2019.10.13-20.53.47:011][261]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63177, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B
+[2019.10.13-20.53.47:011][261]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63177, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B, Channels: 9, Time: 2019.10.13-20.53.47
+[2019.10.13-20.53.47:012][261]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63177, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C93869DA46DA43F38845B5BE06AAA88B
+[2019.10.13-20.53.47:012][261]LogExit: GameNetDriver IpNetDriver_32 shut down
+[2019.10.13-20.53.47:013][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.53.47:013][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.47:131][261]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.10.13-20.53.47:146][262]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.13-20.53.47:146][262]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.13-20.53.47:146][262]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.13-20.53.49:019][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.13-20.53.49:193][369]LogSavePackage: Moving '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/W_PauseMenu4D624A004EBC2FDEB0E04C8C61FF61A6.tmp' to '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Content/Framework/Multiplayer/Widgets/W_PauseMenu.uasset'
+[2019.10.13-20.53.52:380][540]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.53.52:414][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.52:415][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.53.52:415][540]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:53:52 AM)
+[2019.10.13-20.53.52:415][540]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.53.52:417][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001380s)
+[2019.10.13-20.53.52:418][540]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.52:418][540]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2019.10.13-20.53.52:418][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002819s)
+[2019.10.13-20.53.52:525][540]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2019.10.13-20.53.52:526][540]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.53.52:527][540]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.52
+[2019.10.13-20.53.52:527][540]LogWorld: Bringing up level for play took: 0.000640
+[2019.10.13-20.53.52:528][540]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:528][540]LogTemp: Display: ParseSettings for IpNetDriver_36
+[2019.10.13-20.53.52:528][540]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:528][540]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.53.52:528][540]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.53.52:529][540]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.53.52:529][540]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.52:529][540]LogNet: GameNetDriver IpNetDriver_36 IpNetDriver listening on port 17777
+[2019.10.13-20.53.52:529][540]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.52:530][540]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.52:530][540]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu -0.057
+[2019.10.13-20.53.52:550][540]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.53.52:566][540]LogInit: FAudioDevice initialized.
+[2019.10.13-20.53.52:577][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.53.52:577][540]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.53.52:577][540]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:577][540]LogTemp: Display: ParseSettings for IpNetDriver_37
+[2019.10.13-20.53.52:578][540]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.53.52:579][540]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.53.52:579][540]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.52:579][540]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.53.52:585][540]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu -0.001
+[2019.10.13-20.53.52:601][540]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.53.52:613][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.53.52:613][540]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.53.52:613][540]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:613][540]LogTemp: Display: ParseSettings for IpNetDriver_38
+[2019.10.13-20.53.52:614][540]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.53.52:615][540]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.53.52:616][540]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.52:616][540]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.53.52:619][540]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.032
+[2019.10.13-20.53.52:625][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.53.52:626][540]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63180
+[2019.10.13-20.53.52:626][540]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 168231119002149009086055162049003178021065085134255247252071
+[2019.10.13-20.53.52:626][540]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63181
+[2019.10.13-20.53.52:626][540]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 208200212212007092007236236187202013121241074245123255003196
+[2019.10.13-20.53.52:627][540]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.10.13-20.53.52:629][540]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 168231119002149009086055162049003178021065085134255247252071
+[2019.10.13-20.53.52:630][540]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 208200212212007092007236236187202013121241074245123255003196
+[2019.10.13-20.53.52:673][541]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63180
+[2019.10.13-20.53.52:673][541]LogHandshake: SendChallengeAck. InCookie: 168231119002149009086055162049003178021065085134255247252071
+[2019.10.13-20.53.52:673][541]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63180
+[2019.10.13-20.53.52:673][541]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.52:673][541]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:53:52, [UNetConnection] RemoteAddr: 127.0.0.1:63180, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:673][541]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63180, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:674][541]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63181
+[2019.10.13-20.53.52:674][541]LogHandshake: SendChallengeAck. InCookie: 208200212212007092007236236187202013121241074245123255003196
+[2019.10.13-20.53.52:674][541]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63181
+[2019.10.13-20.53.52:674][541]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.52:674][541]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:53:52, [UNetConnection] RemoteAddr: 127.0.0.1:63181, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:674][541]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63181, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:675][541]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: PendingNetDriver IpNetDriver_37, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:676][541]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_37, Driver: PendingNetDriver IpNetDriver_38, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.53.52:702][542]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.53.52:702][542]LogNet: Remote platform little endian=1
+[2019.10.13-20.53.52:702][542]LogNet: This platform little endian=1
+[2019.10.13-20.53.52:702][542]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.53.52:702][542]LogNet: Remote platform little endian=1
+[2019.10.13-20.53.52:703][542]LogNet: This platform little endian=1
+[2019.10.13-20.53.52:703][542]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.10.13-20.53.52:705][542]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.10.13-20.53.52:719][543]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456 userId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456 platform: NULL
+[2019.10.13-20.53.52:719][543]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242 userId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242 platform: NULL
+[2019.10.13-20.53.52:720][543]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.53.52:720][543]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.53.52:720][543]LogWorld: BeginTearingDown for /Temp/Untitled_19
+[2019.10.13-20.53.52:720][543]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.52:821][543]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2019.10.13-20.53.52:825][543]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.52:825][543]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:826][543]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.52
+[2019.10.13-20.53.52:826][543]LogWorld: Bringing up level for play took: 0.000317
+[2019.10.13-20.53.52:827][543]LogLoad: Took 0.106700 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.53.52:827][543]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.53.52:827][543]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.53.52:828][543]LogWorld: BeginTearingDown for /Temp/Untitled_20
+[2019.10.13-20.53.52:828][543]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.52:930][543]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2019.10.13-20.53.52:934][543]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.53.52:935][543]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.52:936][543]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.53.52
+[2019.10.13-20.53.52:936][543]LogWorld: Bringing up level for play took: 0.000539
+[2019.10.13-20.53.52:937][543]LogLoad: Took 0.109180 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.53.52:990][544]LogNet: Client netspeed is 10000
+[2019.10.13-20.53.52:990][544]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456?SplitscreenCount=1
+[2019.10.13-20.53.52:991][544]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.52:992][544]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.52:993][544]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.52:993][544]LogNet: Join succeeded: Wookiee-Desktop-5546
+[2019.10.13-20.53.52:993][544]LogNet: Client netspeed is 10000
+[2019.10.13-20.53.52:993][544]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242?SplitscreenCount=1
+[2019.10.13-20.53.52:993][544]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.52:994][544]LogNet: Join succeeded: Wookiee-Desktop-5DC8
+[2019.10.13-20.53.53:091][549]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.53:096][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.53.53:153][552]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.53:206][555]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.53:207][555]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.53.54:481][631]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.53.54:484][631]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.53.54:484][631]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.53.54:484][631]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.53.54:484][631]LogNet: World NetDriver shutdown IpNetDriver_37 [GameNetDriver]
+[2019.10.13-20.53.54:484][631]LogNet: DestroyNamedNetDriver IpNetDriver_37 [GameNetDriver]
+[2019.10.13-20.53.54:484][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456, Channels: 11, Time: 2019.10.13-20.53.54
+[2019.10.13-20.53.54:484][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456
+[2019.10.13-20.53.54:484][631]LogExit: GameNetDriver IpNetDriver_37 shut down
+[2019.10.13-20.53.54:485][631]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.53.54:578][631]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2019.10.13-20.53.54:632][631]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.53.54:633][631]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.53.54:633][631]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.54:634][631]LogTemp: Display: ParseSettings for IpNetDriver_39
+[2019.10.13-20.53.54:634][631]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.53.54:634][631]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.53.54:634][631]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.53.54:635][631]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.53.54:635][631]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.53.54:635][631]LogNet: GameNetDriver IpNetDriver_39 IpNetDriver listening on port 7777
+[2019.10.13-20.53.54:669][631]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.53.54
+[2019.10.13-20.53.54:669][631]LogWorld: Bringing up level for play took: 0.033015
+[2019.10.13-20.53.54:670][631]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.54:670][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.53.54:670][631]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.54:672][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_28.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.53.54:673][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.53.54:673][631]LogLoad: Took 0.188872 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.53.54:699][632]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.53.54:699][632]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63180, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456
+[2019.10.13-20.53.54:699][632]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63180, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456, Channels: 11, Time: 2019.10.13-20.53.54
+[2019.10.13-20.53.54:699][632]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63180, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5546367E4CEEFCCEF161E1B73F261456
+[2019.10.13-20.53.54:700][632]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.53.54:701][632]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.53.58:094][835]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.54.00:792][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.54.06:612][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.06:613][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.54.06:613][346]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.54.06:633][346]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.54.06:683][346]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.06:690][346]LogNet: World NetDriver shutdown IpNetDriver_38 [GameNetDriver]
+[2019.10.13-20.54.06:690][346]LogNet: DestroyNamedNetDriver IpNetDriver_38 [GameNetDriver]
+[2019.10.13-20.54.06:690][346]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_38, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242, Channels: 9, Time: 2019.10.13-20.54.06
+[2019.10.13-20.54.06:690][346]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_38, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242
+[2019.10.13-20.54.06:690][346]LogExit: GameNetDriver IpNetDriver_38 shut down
+[2019.10.13-20.54.06:691][346]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.54.06:691][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.54.06:710][346]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.54.06:761][346]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.06:774][346]LogNet: World NetDriver shutdown IpNetDriver_39 [GameNetDriver]
+[2019.10.13-20.54.06:774][346]LogNet: DestroyNamedNetDriver IpNetDriver_39 [GameNetDriver]
+[2019.10.13-20.54.06:774][346]LogExit: GameNetDriver IpNetDriver_39 shut down
+[2019.10.13-20.54.06:775][346]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.54.06:775][346]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.06:776][346]LogNet: World NetDriver shutdown IpNetDriver_36 [GameNetDriver]
+[2019.10.13-20.54.06:776][346]LogNet: DestroyNamedNetDriver IpNetDriver_36 [GameNetDriver]
+[2019.10.13-20.54.06:776][346]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63181, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242
+[2019.10.13-20.54.06:776][346]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63181, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242, Channels: 9, Time: 2019.10.13-20.54.06
+[2019.10.13-20.54.06:776][346]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63181, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-5DC8E6744207E3BED2F0C3B8A80FE242
+[2019.10.13-20.54.06:776][346]LogExit: GameNetDriver IpNetDriver_36 shut down
+[2019.10.13-20.54.06:777][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.54.06:777][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.06:889][346]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.10.13-20.54.06:907][347]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.13-20.54.06:907][347]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.10.13-20.54.06:907][347]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.13-20.54.09:119][479]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.54.09:153][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.09:153][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.54.09:154][479]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:54:09 AM)
+[2019.10.13-20.54.09:154][479]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.54.09:155][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001337s)
+[2019.10.13-20.54.09:157][479]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.54.09:157][479]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2019.10.13-20.54.09:157][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002877s)
+[2019.10.13-20.54.09:247][479]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2019.10.13-20.54.09:248][479]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.54.09:249][479]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.54.09
+[2019.10.13-20.54.09:250][479]LogWorld: Bringing up level for play took: 0.000585
+[2019.10.13-20.54.09:250][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:250][479]LogTemp: Display: ParseSettings for IpNetDriver_40
+[2019.10.13-20.54.09:250][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:250][479]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.54.09:250][479]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.54.09:251][479]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.54.09:251][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.09:251][479]LogNet: GameNetDriver IpNetDriver_40 IpNetDriver listening on port 17777
+[2019.10.13-20.54.09:251][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.54.09:251][479]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.54.09:252][479]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu 0.665
+[2019.10.13-20.54.09:269][479]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.54.09:285][479]LogInit: FAudioDevice initialized.
+[2019.10.13-20.54.09:297][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.54.09:298][479]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.54.09:298][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:298][479]LogTemp: Display: ParseSettings for IpNetDriver_41
+[2019.10.13-20.54.09:298][479]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.54.09:299][479]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.54.09:300][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.09:300][479]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.54.09:303][479]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.716
+[2019.10.13-20.54.09:316][479]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.54.09:334][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.54.09:335][479]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.54.09:335][479]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:336][479]LogTemp: Display: ParseSettings for IpNetDriver_42
+[2019.10.13-20.54.09:336][479]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.54.09:337][479]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.54.09:337][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.09:337][479]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.54.09:341][479]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu 0.755
+[2019.10.13-20.54.09:355][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.09:356][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63182
+[2019.10.13-20.54.09:356][479]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 234046161018013211093066158158209050120122064173003032014046
+[2019.10.13-20.54.09:356][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63183
+[2019.10.13-20.54.09:356][479]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 148012078118083235093255183127131161248138107034124125153013
+[2019.10.13-20.54.09:357][479]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.10.13-20.54.09:359][479]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 234046161018013211093066158158209050120122064173003032014046
+[2019.10.13-20.54.09:361][479]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 148012078118083235093255183127131161248138107034124125153013
+[2019.10.13-20.54.09:394][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63182
+[2019.10.13-20.54.09:394][480]LogHandshake: SendChallengeAck. InCookie: 234046161018013211093066158158209050120122064173003032014046
+[2019.10.13-20.54.09:394][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63182
+[2019.10.13-20.54.09:394][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.09:395][480]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:54:09, [UNetConnection] RemoteAddr: 127.0.0.1:63182, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:395][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63182, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:395][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63183
+[2019.10.13-20.54.09:396][480]LogHandshake: SendChallengeAck. InCookie: 148012078118083235093255183127131161248138107034124125153013
+[2019.10.13-20.54.09:396][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63183
+[2019.10.13-20.54.09:396][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.09:396][480]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:54:09, [UNetConnection] RemoteAddr: 127.0.0.1:63183, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:396][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63183, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:398][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: PendingNetDriver IpNetDriver_41, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:399][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_41, Driver: PendingNetDriver IpNetDriver_42, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.54.09:414][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.54.09:415][481]LogNet: Remote platform little endian=1
+[2019.10.13-20.54.09:415][481]LogNet: This platform little endian=1
+[2019.10.13-20.54.09:415][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.54.09:415][481]LogNet: Remote platform little endian=1
+[2019.10.13-20.54.09:415][481]LogNet: This platform little endian=1
+[2019.10.13-20.54.09:416][481]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.10.13-20.54.09:418][481]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.10.13-20.54.09:452][482]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75 userId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75 platform: NULL
+[2019.10.13-20.54.09:453][482]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525 userId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525 platform: NULL
+[2019.10.13-20.54.09:453][482]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.54.09:454][482]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.54.09:454][482]LogWorld: BeginTearingDown for /Temp/Untitled_21
+[2019.10.13-20.54.09:454][482]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.09:551][482]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2019.10.13-20.54.09:556][482]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.54.09:556][482]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:557][482]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.54.09
+[2019.10.13-20.54.09:557][482]LogWorld: Bringing up level for play took: 0.000378
+[2019.10.13-20.54.09:558][482]LogLoad: Took 0.104503 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.54.09:558][482]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.54.09:559][482]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.54.09:559][482]LogWorld: BeginTearingDown for /Temp/Untitled_22
+[2019.10.13-20.54.09:559][482]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.09:660][482]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.10.13-20.54.09:665][482]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.54.09:665][482]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.09:666][482]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.54.09
+[2019.10.13-20.54.09:667][482]LogWorld: Bringing up level for play took: 0.000357
+[2019.10.13-20.54.09:667][482]LogLoad: Took 0.108293 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.54.09:684][483]LogNet: Client netspeed is 10000
+[2019.10.13-20.54.09:684][483]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75?SplitscreenCount=1
+[2019.10.13-20.54.09:685][483]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.09:686][483]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.54.09:686][483]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.54.09:686][483]LogNet: Join succeeded: Wookiee-Desktop-4458
+[2019.10.13-20.54.09:686][483]LogNet: Client netspeed is 10000
+[2019.10.13-20.54.09:686][483]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525?SplitscreenCount=1
+[2019.10.13-20.54.09:687][483]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.09:688][483]LogNet: Join succeeded: Wookiee-Desktop-9EFE
+[2019.10.13-20.54.09:844][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.54.09:890][495]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.09:907][496]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.09:908][496]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.09:958][499]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.54.11:213][574]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.54.11:216][574]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.54.11:216][574]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.54.11:216][574]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.54.11:216][574]LogNet: World NetDriver shutdown IpNetDriver_41 [GameNetDriver]
+[2019.10.13-20.54.11:216][574]LogNet: DestroyNamedNetDriver IpNetDriver_41 [GameNetDriver]
+[2019.10.13-20.54.11:216][574]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75, Channels: 11, Time: 2019.10.13-20.54.11
+[2019.10.13-20.54.11:216][574]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75
+[2019.10.13-20.54.11:216][574]LogExit: GameNetDriver IpNetDriver_41 shut down
+[2019.10.13-20.54.11:217][574]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.11:326][574]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2019.10.13-20.54.11:375][574]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.54.11:375][574]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.54.11:375][574]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.11:375][574]LogTemp: Display: ParseSettings for IpNetDriver_43
+[2019.10.13-20.54.11:376][574]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.54.11:376][574]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.54.11:376][574]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.54.11:377][574]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.54.11:377][574]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.54.11:377][574]LogNet: GameNetDriver IpNetDriver_43 IpNetDriver listening on port 7777
+[2019.10.13-20.54.11:427][574]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.54.11
+[2019.10.13-20.54.11:428][574]LogWorld: Bringing up level for play took: 0.049357
+[2019.10.13-20.54.11:428][574]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.54.11:428][574]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.54.11:429][574]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.54.11:430][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_31.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.54.11:432][574]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.54.11:432][574]LogLoad: Took 0.215718 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.54.11:457][575]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.54.11:457][575]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63182, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75
+[2019.10.13-20.54.11:458][575]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63182, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75, Channels: 11, Time: 2019.10.13-20.54.11
+[2019.10.13-20.54.11:458][575]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63182, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-4458BEC34E5B4EC31213E698C222BC75
+[2019.10.13-20.54.11:459][575]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.54.11:460][575]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.54.25:720][430]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.54.27:852][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.54.36:738][ 90]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.54.36:790][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.36:791][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.54.36:791][ 90]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.54.36:817][ 90]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.54.36:870][ 90]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.36:877][ 90]LogNet: World NetDriver shutdown IpNetDriver_42 [GameNetDriver]
+[2019.10.13-20.54.36:877][ 90]LogNet: DestroyNamedNetDriver IpNetDriver_42 [GameNetDriver]
+[2019.10.13-20.54.36:877][ 90]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_42, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525, Channels: 9, Time: 2019.10.13-20.54.36
+[2019.10.13-20.54.36:877][ 90]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_42, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525
+[2019.10.13-20.54.36:877][ 90]LogExit: GameNetDriver IpNetDriver_42 shut down
+[2019.10.13-20.54.36:878][ 90]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.54.36:879][ 90]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.36:887][ 90]LogNet: World NetDriver shutdown IpNetDriver_43 [GameNetDriver]
+[2019.10.13-20.54.36:887][ 90]LogNet: DestroyNamedNetDriver IpNetDriver_43 [GameNetDriver]
+[2019.10.13-20.54.36:888][ 90]LogExit: GameNetDriver IpNetDriver_43 shut down
+[2019.10.13-20.54.36:888][ 90]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.54.36:889][ 90]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.54.36:889][ 90]LogNet: World NetDriver shutdown IpNetDriver_40 [GameNetDriver]
+[2019.10.13-20.54.36:889][ 90]LogNet: DestroyNamedNetDriver IpNetDriver_40 [GameNetDriver]
+[2019.10.13-20.54.36:889][ 90]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63183, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525
+[2019.10.13-20.54.36:889][ 90]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63183, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525, Channels: 9, Time: 2019.10.13-20.54.36
+[2019.10.13-20.54.36:889][ 90]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63183, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-9EFE9CA04F7CEDFDF25FA5B77FA7F525
+[2019.10.13-20.54.36:890][ 90]LogExit: GameNetDriver IpNetDriver_40 shut down
+[2019.10.13-20.54.36:890][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.54.36:891][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.54.37:010][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.10.13-20.54.37:028][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.10.13-20.54.37:028][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.13-20.54.37:028][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.10.13-20.57.34:486][664]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-20.57.34:618][664]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2019.10.13-20.57.36:031][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-20.57.36:063][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.57.36:063][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-20.57.36:063][729]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 10:57:36 AM)
+[2019.10.13-20.57.36:064][729]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.57.36:065][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001347s)
+[2019.10.13-20.57.36:066][729]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.57.36:066][729]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2019.10.13-20.57.36:067][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002961s)
+[2019.10.13-20.57.36:163][729]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2019.10.13-20.57.36:164][729]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.57.36:165][729]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.57.36
+[2019.10.13-20.57.36:165][729]LogWorld: Bringing up level for play took: 0.000647
+[2019.10.13-20.57.36:165][729]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:165][729]LogTemp: Display: ParseSettings for IpNetDriver_44
+[2019.10.13-20.57.36:165][729]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:165][729]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.57.36:166][729]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.57.36:166][729]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.57.36:166][729]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.36:166][729]LogNet: GameNetDriver IpNetDriver_44 IpNetDriver listening on port 17777
+[2019.10.13-20.57.36:166][729]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.57.36:167][729]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.57.36:167][729]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu -0.42
+[2019.10.13-20.57.36:184][729]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-20.57.36:200][729]LogInit: FAudioDevice initialized.
+[2019.10.13-20.57.36:210][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.57.36:211][729]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.57.36:211][729]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:211][729]LogTemp: Display: ParseSettings for IpNetDriver_45
+[2019.10.13-20.57.36:211][729]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.57.36:212][729]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.57.36:212][729]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.36:212][729]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.57.36:214][729]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu -0.372
+[2019.10.13-20.57.36:225][729]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-20.57.36:236][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.57.36:236][729]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-20.57.36:236][729]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:236][729]LogTemp: Display: ParseSettings for IpNetDriver_46
+[2019.10.13-20.57.36:236][729]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-20.57.36:237][729]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-20.57.36:238][729]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.36:238][729]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-20.57.36:240][729]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu -0.346
+[2019.10.13-20.57.36:248][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.57.36:248][729]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65526
+[2019.10.13-20.57.36:248][729]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 151161230046102146007103031026212203177107173035215254251007
+[2019.10.13-20.57.36:249][729]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65527
+[2019.10.13-20.57.36:249][729]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 050230067036191128132216175209061050034249244044060064229142
+[2019.10.13-20.57.36:249][729]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2019.10.13-20.57.36:252][729]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 151161230046102146007103031026212203177107173035215254251007
+[2019.10.13-20.57.36:253][729]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 050230067036191128132216175209061050034249244044060064229142
+[2019.10.13-20.57.36:302][730]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65526
+[2019.10.13-20.57.36:302][730]LogHandshake: SendChallengeAck. InCookie: 151161230046102146007103031026212203177107173035215254251007
+[2019.10.13-20.57.36:302][730]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65526
+[2019.10.13-20.57.36:302][730]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.36:302][730]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:57:36, [UNetConnection] RemoteAddr: 127.0.0.1:65526, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:303][730]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65526, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:303][730]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65527
+[2019.10.13-20.57.36:303][730]LogHandshake: SendChallengeAck. InCookie: 050230067036191128132216175209061050034249244044060064229142
+[2019.10.13-20.57.36:303][730]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65527
+[2019.10.13-20.57.36:303][730]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.36:303][730]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 15:57:36, [UNetConnection] RemoteAddr: 127.0.0.1:65527, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:303][730]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65527, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:304][730]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: PendingNetDriver IpNetDriver_45, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:305][730]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: PendingNetDriver IpNetDriver_46, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-20.57.36:322][731]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.57.36:322][731]LogNet: Remote platform little endian=1
+[2019.10.13-20.57.36:322][731]LogNet: This platform little endian=1
+[2019.10.13-20.57.36:322][731]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-20.57.36:322][731]LogNet: Remote platform little endian=1
+[2019.10.13-20.57.36:322][731]LogNet: This platform little endian=1
+[2019.10.13-20.57.36:323][731]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2019.10.13-20.57.36:325][731]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2019.10.13-20.57.36:341][732]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01 userId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01 platform: NULL
+[2019.10.13-20.57.36:342][732]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-231897E647C703329AFA939274860D69 userId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69 platform: NULL
+[2019.10.13-20.57.36:342][732]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.57.36:342][732]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.57.36:342][732]LogWorld: BeginTearingDown for /Temp/Untitled_23
+[2019.10.13-20.57.36:343][732]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.36:447][732]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2019.10.13-20.57.36:450][732]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.57.36:451][732]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:452][732]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.57.36
+[2019.10.13-20.57.36:452][732]LogWorld: Bringing up level for play took: 0.000385
+[2019.10.13-20.57.36:452][732]LogLoad: Took 0.110112 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.57.36:453][732]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-20.57.36:453][732]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-20.57.36:453][732]LogWorld: BeginTearingDown for /Temp/Untitled_24
+[2019.10.13-20.57.36:453][732]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.36:557][732]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2019.10.13-20.57.36:560][732]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-20.57.36:561][732]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.36:562][732]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-15.57.36
+[2019.10.13-20.57.36:562][732]LogWorld: Bringing up level for play took: 0.000455
+[2019.10.13-20.57.36:563][732]LogLoad: Took 0.109699 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-20.57.36:585][733]LogNet: Client netspeed is 10000
+[2019.10.13-20.57.36:585][733]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01?SplitscreenCount=1
+[2019.10.13-20.57.36:586][733]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.36:586][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.57.36:587][733]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.57.36:588][733]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.57.36:588][733]LogNet: Join succeeded: Wookiee-Desktop-23A9
+[2019.10.13-20.57.36:588][733]LogNet: Client netspeed is 10000
+[2019.10.13-20.57.36:588][733]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-231897E647C703329AFA939274860D69?SplitscreenCount=1
+[2019.10.13-20.57.36:589][733]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.36:589][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-20.57.36:590][733]LogNet: Join succeeded: Wookiee-Desktop-2318
+[2019.10.13-20.57.36:714][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.36:717][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-20.57.36:747][741]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.36:780][743]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.36:797][744]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-20.57.37:887][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.57.37:891][809]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.57.37:891][809]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-20.57.37:891][809]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-20.57.37:891][809]LogNet: World NetDriver shutdown IpNetDriver_45 [GameNetDriver]
+[2019.10.13-20.57.37:891][809]LogNet: DestroyNamedNetDriver IpNetDriver_45 [GameNetDriver]
+[2019.10.13-20.57.37:891][809]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_45, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01, Channels: 11, Time: 2019.10.13-20.57.37
+[2019.10.13-20.57.37:891][809]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_45, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01
+[2019.10.13-20.57.37:891][809]LogExit: GameNetDriver IpNetDriver_45 shut down
+[2019.10.13-20.57.37:892][809]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.37:998][809]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2019.10.13-20.57.38:050][809]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-20.57.38:050][809]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-20.57.38:051][809]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.38:051][809]LogTemp: Display: ParseSettings for IpNetDriver_47
+[2019.10.13-20.57.38:051][809]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-20.57.38:051][809]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-20.57.38:051][809]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-20.57.38:052][809]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-20.57.38:052][809]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-20.57.38:052][809]LogNet: GameNetDriver IpNetDriver_47 IpNetDriver listening on port 7777
+[2019.10.13-20.57.38:163][809]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-15.57.38
+[2019.10.13-20.57.38:164][809]LogWorld: Bringing up level for play took: 0.110571
+[2019.10.13-20.57.38:164][809]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.57.38:165][809]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-20.57.38:165][809]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.57.38:166][809]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_34.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-20.57.38:167][809]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-20.57.38:168][809]LogLoad: Took 0.276717 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-20.57.38:186][810]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-20.57.38:186][810]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65526, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01
+[2019.10.13-20.57.38:186][810]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65526, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01, Channels: 11, Time: 2019.10.13-20.57.38
+[2019.10.13-20.57.38:186][810]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65526, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-23A9D45348165E0A538AFB8361DC2F01
+[2019.10.13-20.57.38:186][810]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.57.38:188][810]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-20.57.40:742][961]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-20.57.42:789][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-20.57.54:093][745]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.57.54:148][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.57.54:148][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-20.57.54:148][745]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-20.57.54:173][745]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-20.57.54:225][745]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.54:230][745]LogNet: World NetDriver shutdown IpNetDriver_46 [GameNetDriver]
+[2019.10.13-20.57.54:231][745]LogNet: DestroyNamedNetDriver IpNetDriver_46 [GameNetDriver]
+[2019.10.13-20.57.54:231][745]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_46, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69, Channels: 9, Time: 2019.10.13-20.57.54
+[2019.10.13-20.57.54:231][745]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_46, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69
+[2019.10.13-20.57.54:231][745]LogExit: GameNetDriver IpNetDriver_46 shut down
+[2019.10.13-20.57.54:232][745]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-20.57.54:233][745]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.54:240][745]LogNet: World NetDriver shutdown IpNetDriver_47 [GameNetDriver]
+[2019.10.13-20.57.54:240][745]LogNet: DestroyNamedNetDriver IpNetDriver_47 [GameNetDriver]
+[2019.10.13-20.57.54:240][745]LogExit: GameNetDriver IpNetDriver_47 shut down
+[2019.10.13-20.57.54:241][745]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-20.57.54:242][745]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-20.57.54:242][745]LogNet: World NetDriver shutdown IpNetDriver_44 [GameNetDriver]
+[2019.10.13-20.57.54:242][745]LogNet: DestroyNamedNetDriver IpNetDriver_44 [GameNetDriver]
+[2019.10.13-20.57.54:242][745]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65527, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69
+[2019.10.13-20.57.54:242][745]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65527, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69, Channels: 9, Time: 2019.10.13-20.57.54
+[2019.10.13-20.57.54:242][745]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65527, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-231897E647C703329AFA939274860D69
+[2019.10.13-20.57.54:243][745]LogExit: GameNetDriver IpNetDriver_44 shut down
+[2019.10.13-20.57.54:244][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-20.57.54:244][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-20.57.54:359][745]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.10.13-20.57.54:381][746]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.10.13-20.57.54:381][746]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.10.13-20.57.54:381][746]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.10.13-21.00.01:572][ 78]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-21.00.01:695][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2019.10.13-21.00.13:758][777]BlueprintLog: New page: Compile W_PauseMenu
+[2019.10.13-21.00.13:892][777]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2019.10.13-21.00.15:912][880]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.13-21.00.15:945][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-21.00.15:945][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-21.00.15:945][880]PIE: New page: PIE session: MP_mainMenu (Oct 13, 2019, 11:00:15 AM)
+[2019.10.13-21.00.15:946][880]LogPlayLevel: Creating play world package: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-21.00.15:947][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001309s)
+[2019.10.13-21.00.15:948][880]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-21.00.15:948][880]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2019.10.13-21.00.15:948][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu to /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu (0.002844s)
+[2019.10.13-21.00.16:045][880]LogUObjectHash: Compacting FUObjectHashTables data took  10.07ms
+[2019.10.13-21.00.16:045][880]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-21.00.16:046][880]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-16.00.16
+[2019.10.13-21.00.16:047][880]LogWorld: Bringing up level for play took: 0.000647
+[2019.10.13-21.00.16:047][880]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:047][880]LogTemp: Display: ParseSettings for IpNetDriver_48
+[2019.10.13-21.00.16:047][880]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:047][880]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-21.00.16:047][880]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-21.00.16:048][880]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-21.00.16:048][880]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.16:048][880]LogNet: GameNetDriver IpNetDriver_48 IpNetDriver listening on port 17777
+[2019.10.13-21.00.16:048][880]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.16:048][880]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.16:049][880]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu -0.538
+[2019.10.13-21.00.16:070][880]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-21.00.16:086][880]LogInit: FAudioDevice initialized.
+[2019.10.13-21.00.16:099][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-21.00.16:099][880]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-21.00.16:099][880]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:100][880]LogTemp: Display: ParseSettings for IpNetDriver_49
+[2019.10.13-21.00.16:100][880]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-21.00.16:100][880]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-21.00.16:101][880]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.16:101][880]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-21.00.16:103][880]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu -0.483
+[2019.10.13-21.00.16:113][880]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-21.00.16:122][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-21.00.16:123][880]LogNet: Browse: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/MP_mainMenu
+[2019.10.13-21.00.16:123][880]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:123][880]LogTemp: Display: ParseSettings for IpNetDriver_50
+[2019.10.13-21.00.16:123][880]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.10.13-21.00.16:124][880]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.10.13-21.00.16:125][880]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.16:125][880]LogNet: Game client on port 17777, rate 10000
+[2019.10.13-21.00.16:127][880]PIE: Play in editor start time for /Game/Framework/Multiplayer/Maps/MP_mainMenu -0.459
+[2019.10.13-21.00.16:133][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-21.00.16:133][880]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56322
+[2019.10.13-21.00.16:133][880]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 027027212107229239172205246203191244135022191084191252229173
+[2019.10.13-21.00.16:133][880]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56323
+[2019.10.13-21.00.16:134][880]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 014019101115243188121062151161096150186193255195241235029092
+[2019.10.13-21.00.16:134][880]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2019.10.13-21.00.16:136][880]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 027027212107229239172205246203191244135022191084191252229173
+[2019.10.13-21.00.16:138][880]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 014019101115243188121062151161096150186193255195241235029092
+[2019.10.13-21.00.16:170][881]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56322
+[2019.10.13-21.00.16:170][881]LogHandshake: SendChallengeAck. InCookie: 027027212107229239172205246203191244135022191084191252229173
+[2019.10.13-21.00.16:170][881]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56322
+[2019.10.13-21.00.16:171][881]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.16:171][881]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 16:00:16, [UNetConnection] RemoteAddr: 127.0.0.1:56322, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:171][881]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56322, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:171][881]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56323
+[2019.10.13-21.00.16:171][881]LogHandshake: SendChallengeAck. InCookie: 014019101115243188121062151161096150186193255195241235029092
+[2019.10.13-21.00.16:172][881]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56323
+[2019.10.13-21.00.16:172][881]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.16:172][881]LogNet: NotifyAcceptedConnection: Name: MP_mainMenu, TimeStamp: 10/13/19 16:00:16, [UNetConnection] RemoteAddr: 127.0.0.1:56323, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:173][881]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56323, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:174][881]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: PendingNetDriver IpNetDriver_49, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:174][881]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: PendingNetDriver IpNetDriver_50, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.10.13-21.00.16:196][882]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-21.00.16:197][882]LogNet: Remote platform little endian=1
+[2019.10.13-21.00.16:197][882]LogNet: This platform little endian=1
+[2019.10.13-21.00.16:197][882]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu.MP_mainMenu: Accepted
+[2019.10.13-21.00.16:197][882]LogNet: Remote platform little endian=1
+[2019.10.13-21.00.16:197][882]LogNet: This platform little endian=1
+[2019.10.13-21.00.16:198][882]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2019.10.13-21.00.16:200][882]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2019.10.13-21.00.16:216][883]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E userId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E platform: NULL
+[2019.10.13-21.00.16:216][883]LogNet: Login request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA userId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA platform: NULL
+[2019.10.13-21.00.16:217][883]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-21.00.16:217][883]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-21.00.16:217][883]LogWorld: BeginTearingDown for /Temp/Untitled_25
+[2019.10.13-21.00.16:217][883]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.16:321][883]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2019.10.13-21.00.16:326][883]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-21.00.16:326][883]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:327][883]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-16.00.16
+[2019.10.13-21.00.16:328][883]LogWorld: Bringing up level for play took: 0.000278
+[2019.10.13-21.00.16:328][883]LogLoad: Took 0.110831 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-21.00.16:328][883]LogNet: Welcomed by server (Level: /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu, Game: /Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C)
+[2019.10.13-21.00.16:328][883]LogLoad: LoadMap: 127.0.0.1:17777//Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu?game=/Game/Framework/Multiplayer/Blueprints/MP_GM.MP_GM_C
+[2019.10.13-21.00.16:328][883]LogWorld: BeginTearingDown for /Temp/Untitled_26
+[2019.10.13-21.00.16:328][883]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.16:434][883]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2019.10.13-21.00.16:437][883]LogAIModule: Creating AISystem for world MP_mainMenu
+[2019.10.13-21.00.16:437][883]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.16:438][883]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu.MP_mainMenu up for play (max tick rate 60) at 2019.10.13-16.00.16
+[2019.10.13-21.00.16:439][883]LogWorld: Bringing up level for play took: 0.000423
+[2019.10.13-21.00.16:439][883]LogLoad: Took 0.110904 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu)
+[2019.10.13-21.00.16:459][884]LogNet: Client netspeed is 10000
+[2019.10.13-21.00.16:459][884]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E?SplitscreenCount=1
+[2019.10.13-21.00.16:460][884]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.16:460][884]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-21.00.16:461][884]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.16:461][884]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.16:461][884]LogNet: Join succeeded: Wookiee-Desktop-CFE3
+[2019.10.13-21.00.16:462][884]LogNet: Client netspeed is 10000
+[2019.10.13-21.00.16:462][884]LogNet: Join request: /Game/Framework/Multiplayer/Maps/MP_mainMenu?Name=Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA?SplitscreenCount=1
+[2019.10.13-21.00.16:462][884]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.16:462][884]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.13-21.00.16:463][884]LogNet: Join succeeded: Wookiee-Desktop-C5B7
+[2019.10.13-21.00.16:571][889]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.16:576][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-21.00.16:611][891]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.16:633][892]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.16:678][894]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.10.13-21.00.17:877][965]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-21.00.17:880][965]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-21.00.17:880][965]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-21.00.17:880][965]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_mainMenu
+[2019.10.13-21.00.17:880][965]LogNet: World NetDriver shutdown IpNetDriver_49 [GameNetDriver]
+[2019.10.13-21.00.17:880][965]LogNet: DestroyNamedNetDriver IpNetDriver_49 [GameNetDriver]
+[2019.10.13-21.00.17:880][965]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_49, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E, Channels: 11, Time: 2019.10.13-21.00.17
+[2019.10.13-21.00.17:881][965]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_49, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E
+[2019.10.13-21.00.17:881][965]LogExit: GameNetDriver IpNetDriver_49 shut down
+[2019.10.13-21.00.17:881][965]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.17:989][965]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2019.10.13-21.00.18:040][965]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-21.00.18:040][965]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-21.00.18:041][965]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.18:041][965]LogTemp: Display: ParseSettings for IpNetDriver_51
+[2019.10.13-21.00.18:041][965]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.18:041][965]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-21.00.18:041][965]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-21.00.18:042][965]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-21.00.18:042][965]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.18:042][965]LogNet: GameNetDriver IpNetDriver_51 IpNetDriver listening on port 7777
+[2019.10.13-21.00.18:192][965]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-16.00.18
+[2019.10.13-21.00.18:192][965]LogWorld: Bringing up level for play took: 0.149255
+[2019.10.13-21.00.18:193][965]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.18:193][965]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.18:193][965]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.18:195][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_37.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-21.00.18:196][965]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.18:196][965]LogLoad: Took 0.315845 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-21.00.18:213][966]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-21.00.18:213][966]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56322, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E
+[2019.10.13-21.00.18:213][966]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56322, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E, Channels: 11, Time: 2019.10.13-21.00.18
+[2019.10.13-21.00.18:213][966]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56322, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-CFE367914AA7FDC96E37C396F8A42F5E
+[2019.10.13-21.00.18:214][966]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-21.00.18:215][966]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-21.00.20:232][ 86]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-21.00.24:145][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-21.00.26:535][462]Cmd: r.setres 3840x2160
+[2019.10.13-21.00.26:535][462]r.SetRes = "3840x2160"
+[2019.10.13-21.00.29:703][586]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-21.00.29:707][586]LogNet: Browse: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-21.00.29:707][586]LogLoad: LoadMap: /Game/Framework/Multiplayer/Maps/MP_Level1?listen
+[2019.10.13-21.00.29:707][586]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_mainMenu
+[2019.10.13-21.00.29:707][586]LogNet: World NetDriver shutdown IpNetDriver_50 [GameNetDriver]
+[2019.10.13-21.00.29:707][586]LogNet: DestroyNamedNetDriver IpNetDriver_50 [GameNetDriver]
+[2019.10.13-21.00.29:707][586]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_50, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA, Channels: 9, Time: 2019.10.13-21.00.29
+[2019.10.13-21.00.29:707][586]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_50, IsServer: NO, PC: PC_MP_C_0, Owner: PC_MP_C_0, UniqueId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA
+[2019.10.13-21.00.29:708][586]LogExit: GameNetDriver IpNetDriver_50 shut down
+[2019.10.13-21.00.29:708][586]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.29:826][586]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2019.10.13-21.00.29:879][586]LogAIModule: Creating AISystem for world MP_Level1
+[2019.10.13-21.00.29:880][586]LogLoad: Game class is 'MP_GM_C'
+[2019.10.13-21.00.29:880][586]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.29:880][586]LogTemp: Display: ParseSettings for IpNetDriver_52
+[2019.10.13-21.00.29:880][586]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.10.13-21.00.29:880][586]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.10.13-21.00.29:880][586]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.10.13-21.00.29:881][586]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.10.13-21.00.29:881][586]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.10.13-21.00.29:881][586]LogNet: GameNetDriver IpNetDriver_52 IpNetDriver listening on port 7778
+[2019.10.13-21.00.29:984][586]LogWorld: Bringing World /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_Level1.MP_Level1 up for play (max tick rate 60) at 2019.10.13-16.00.29
+[2019.10.13-21.00.29:985][586]LogWorld: Bringing up level for play took: 0.102572
+[2019.10.13-21.00.29:985][586]LogLongPackageNames: Warning: URL: :7778//Game/Framework/Multiplayer/Maps/MP_Level1: Name may not contain the following characters: ':'
+[2019.10.13-21.00.29:986][586]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.29:986][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.13-21.00.29:986][586]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.29:987][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GI_MP_Steam_C_38.W_loadingscreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2019.10.13-21.00.29:989][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.13-21.00.29:989][586]LogLoad: Took 0.281738 seconds to LoadMap(/Game/Framework/Multiplayer/Maps/MP_Level1)
+[2019.10.13-21.00.29:995][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-21.00.30:006][587]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.10.13-21.00.30:006][587]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56323, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA
+[2019.10.13-21.00.30:006][587]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56323, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA, Channels: 9, Time: 2019.10.13-21.00.30
+[2019.10.13-21.00.30:006][587]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56323, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: PC_MP_C_1, Owner: PC_MP_C_1, UniqueId: NULL:Wookiee-Desktop-C5B79C71446240892997C19A7AF3E9DA
+[2019.10.13-21.00.30:007][587]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.10.13-21.00.33:361][733]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.13-21.00.36:219][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-21.00.44:059][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-21.00.44:060][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-21.00.44:060][180]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_3_MP_Level1
+[2019.10.13-21.00.44:081][180]LogSlate: Window 'ScreamJam2019 Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-21.00.44:155][180]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.44:269][180]LogNet: World NetDriver shutdown IpNetDriver_52 [GameNetDriver]
+[2019.10.13-21.00.44:269][180]LogNet: DestroyNamedNetDriver IpNetDriver_52 [GameNetDriver]
+[2019.10.13-21.00.44:269][180]LogExit: GameNetDriver IpNetDriver_52 shut down
+[2019.10.13-21.00.44:270][180]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_2_MP_Level1
+[2019.10.13-21.00.44:270][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-21.00.44:289][180]LogSlate: Window 'ScreamJam2019 Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.13-21.00.44:343][180]LogWorld: UWorld::CleanupWorld for MP_Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.44:357][180]LogNet: World NetDriver shutdown IpNetDriver_51 [GameNetDriver]
+[2019.10.13-21.00.44:357][180]LogNet: DestroyNamedNetDriver IpNetDriver_51 [GameNetDriver]
+[2019.10.13-21.00.44:357][180]LogExit: GameNetDriver IpNetDriver_51 shut down
+[2019.10.13-21.00.44:359][180]LogWorld: BeginTearingDown for /Game/Framework/Multiplayer/Maps/UEDPIE_1_MP_mainMenu
+[2019.10.13-21.00.44:359][180]LogWorld: UWorld::CleanupWorld for MP_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-21.00.44:359][180]LogNet: World NetDriver shutdown IpNetDriver_48 [GameNetDriver]
+[2019.10.13-21.00.44:359][180]LogNet: DestroyNamedNetDriver IpNetDriver_48 [GameNetDriver]
+[2019.10.13-21.00.44:359][180]LogExit: GameNetDriver IpNetDriver_48 shut down
+[2019.10.13-21.00.44:360][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-21.00.44:361][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu' with GeneratedClass '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu_C' with ClassGeneratedBy '/Game/Framework/Multiplayer/Maps/MP_mainMenu.MP_mainMenu:PersistentLevel.MP_mainMenu'
+[2019.10.13-21.00.44:482][180]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2019.10.13-21.00.44:501][181]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.10.13-21.00.44:501][181]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.10.13-21.00.44:501][181]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.10.13-21.00.52:232][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.13-21.00.52:402][621]LogSavePackage: Moving '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/W_PauseMenuF32563A54D3BDC859B85568C936CDD26.tmp' to '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Content/Framework/Multiplayer/Widgets/W_PauseMenu.uasset'
