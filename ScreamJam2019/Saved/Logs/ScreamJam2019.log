@@ -8,10 +8,10 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: ScreamJam2019
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.167763
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.118356
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
-LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -127,13 +127,13 @@ LogInit: Build: ++UE4+Release-4.23-CL-8386587
 LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD FX(tm)-6300 Six-Core Processor             , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
 LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Command Line:
+LogInit: Base Directory: D:/UE4/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -400,7 +400,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-21.09.35:028][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
 [2019.10.16-21.09.35:029][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
 [2019.10.16-21.09.35:029][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2019.10.16-21.09.35:030][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.16-21.09.35:030][  0]LogWindows: DebugString: FoundDriverCount:4
 [2019.10.16-21.09.35:030][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
 [2019.10.16-21.09.35:030][  0]LogD3D11RHI:   Driver Version: 431.86 (internal:26.21.14.3186, unified:431.86)
 [2019.10.16-21.09.35:030][  0]LogD3D11RHI:      Driver Date: 8-27-2019
@@ -1437,42 +1437,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-21.32.03:836][435]Cmd: help
 [2019.10.16-21.32.03:836][435]LogEngine: Display: Console Help:
 [2019.10.16-21.32.03:836][435]LogEngine: Display: =============
-[2019.10.16-21.32.03:836][435]LogEngine: Display:  
+[2019.10.16-21.32.03:836][435]LogEngine: Display:
 [2019.10.16-21.32.03:836][435]LogEngine: Display: A console variable is a engine wide key value pair. The key is a string usually starting with the subsystem prefix followed
 [2019.10.16-21.32.03:836][435]LogEngine: Display: by '.' e.g. r.BloomQuality. The value can be of different tpe (e.g. float, int, string). A console command has no state associated with
 [2019.10.16-21.32.03:836][435]LogEngine: Display: and gets executed immediately.
-[2019.10.16-21.32.03:836][435]LogEngine: Display:  
+[2019.10.16-21.32.03:836][435]LogEngine: Display:
 [2019.10.16-21.32.03:836][435]LogEngine: Display: Console variables can be put into ini files (e.g. ConsoleVariables.ini or BaseEngine.ini) with this syntax:
 [2019.10.16-21.32.03:836][435]LogEngine: Display: <Console variable> = <value>
-[2019.10.16-21.32.03:836][435]LogEngine: Display:  
+[2019.10.16-21.32.03:836][435]LogEngine: Display:
 [2019.10.16-21.32.03:836][435]LogEngine: Display: DumpConsoleCommands         Lists all console variables and commands that are registered (Some are not registered)
 [2019.10.16-21.32.03:836][435]LogEngine: Display: <Console variable>          Get the console variable state
 [2019.10.16-21.32.03:836][435]LogEngine: Display: <Console variable> ?        Get the console variable help text
 [2019.10.16-21.32.03:836][435]LogEngine: Display: <Console variable> <value>  Set the console variable value
 [2019.10.16-21.32.03:836][435]LogEngine: Display: <Console command> [Params]  Execute the console command with optional parameters
-[2019.10.16-21.32.03:836][435]LogEngine: Display:  
+[2019.10.16-21.32.03:836][435]LogEngine: Display:
 [2019.10.16-21.32.03:838][435]LogEngine: Display: To browse console variables open this: '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/ConsoleHelp.html'
-[2019.10.16-21.32.03:838][435]LogEngine: Display:  
+[2019.10.16-21.32.03:838][435]LogEngine: Display:
 [2019.10.16-21.32.03:838][435]Cmd: *
 [2019.10.16-21.33.01:402][ 93]Cmd: help
 [2019.10.16-21.33.01:402][ 93]LogEngine: Display: Console Help:
 [2019.10.16-21.33.01:402][ 93]LogEngine: Display: =============
-[2019.10.16-21.33.01:402][ 93]LogEngine: Display:  
+[2019.10.16-21.33.01:402][ 93]LogEngine: Display:
 [2019.10.16-21.33.01:402][ 93]LogEngine: Display: A console variable is a engine wide key value pair. The key is a string usually starting with the subsystem prefix followed
 [2019.10.16-21.33.01:402][ 93]LogEngine: Display: by '.' e.g. r.BloomQuality. The value can be of different tpe (e.g. float, int, string). A console command has no state associated with
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: and gets executed immediately.
-[2019.10.16-21.33.01:403][ 93]LogEngine: Display:  
+[2019.10.16-21.33.01:403][ 93]LogEngine: Display:
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: Console variables can be put into ini files (e.g. ConsoleVariables.ini or BaseEngine.ini) with this syntax:
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: <Console variable> = <value>
-[2019.10.16-21.33.01:403][ 93]LogEngine: Display:  
+[2019.10.16-21.33.01:403][ 93]LogEngine: Display:
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: DumpConsoleCommands         Lists all console variables and commands that are registered (Some are not registered)
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: <Console variable>          Get the console variable state
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: <Console variable> ?        Get the console variable help text
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: <Console variable> <value>  Set the console variable value
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: <Console command> [Params]  Execute the console command with optional parameters
-[2019.10.16-21.33.01:403][ 93]LogEngine: Display:  
+[2019.10.16-21.33.01:403][ 93]LogEngine: Display:
 [2019.10.16-21.33.01:403][ 93]LogEngine: Display: To browse console variables open this: '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/ConsoleHelp.html'
-[2019.10.16-21.33.01:403][ 93]LogEngine: Display:  
+[2019.10.16-21.33.01:403][ 93]LogEngine: Display:
 [2019.10.16-21.33.01:403][ 93]Cmd: *
 [2019.10.16-21.41.47:006][392]BlueprintLog: New page: Compile W_PauseMenu
 [2019.10.16-21.41.47:198][392]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
