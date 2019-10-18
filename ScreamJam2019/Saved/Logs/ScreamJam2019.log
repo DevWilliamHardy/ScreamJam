@@ -2590,3 +2590,335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.18-17.37.57:208][855]LogSlate: Window 'Save Content' being destroyed
 [2019.10.18-17.37.57:236][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Functions/ParallaxOcclusion" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Functions/ParallaxOcclusion.uasset" SILENT=true
 [2019.10.18-17.37.57:270][855]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/ParallaxOcclusion7FB93B2C4964D6C5C893D7A63FA912CF.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Functions/ParallaxOcclusion.uasset'
+[2019.10.18-17.40.32:418][ 37]LogAssetEditorManager: Opening Asset editor for Material /Game/GameJamMasterMaterial/M_Master.M_Master
+[2019.10.18-17.40.32:424][ 37]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.18-17.40.32:566][ 37]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.18-17.40.32:632][ 37]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.18-17.40.32:700][ 37]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.10.18-17.40.32:753][ 37]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 131
+[2019.10.18-17.40.32:753][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2019.10.18-17.40.32:753][ 37]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 129
+[2019.10.18-17.40.33:401][106]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2019.10.18-17.40.33:436][110]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2019.10.18-17.40.33:609][130]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 126
+[2019.10.18-17.40.33:619][131]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 125
+[2019.10.18-17.40.34:218][190]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2019.10.18-17.40.34:300][200]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 123
+[2019.10.18-17.40.34:545][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 122
+[2019.10.18-17.40.34:657][239]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 121
+[2019.10.18-17.40.34:863][263]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2019.10.18-17.40.35:052][285]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2019.10.18-17.40.35:110][286]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.18-17.40.35:147][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2019.10.18-17.40.35:357][313]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2019.10.18-17.40.35:538][334]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2019.10.18-17.40.35:660][348]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 115
+[2019.10.18-17.40.36:161][406]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 114
+[2019.10.18-17.40.36:230][414]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 113
+[2019.10.18-17.40.36:430][435]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 112
+[2019.10.18-17.40.36:674][456]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 111
+[2019.10.18-17.40.36:865][474]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 110
+[2019.10.18-17.40.36:970][483]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2019.10.18-17.40.37:431][528]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.10.18-17.40.37:454][528]LogAssetEditorManager: Opening Asset editor for MaterialFunction /Game/GameJamMasterMaterial/Functions/ParallaxOcclusion.ParallaxOcclusion
+[2019.10.18-17.40.37:528][528]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 107
+[2019.10.18-17.40.37:531][528]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2019.10.18-17.40.37:541][528]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.10.18-17.40.37:551][528]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2019.10.18-17.40.37:561][528]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2019.10.18-17.40.37:570][528]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
+[2019.10.18-17.40.37:582][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2019.10.18-17.40.37:594][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_1, compiling. 
+[2019.10.18-17.40.37:604][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2019.10.18-17.40.37:613][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2019.10.18-17.40.37:616][528]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2019.10.18-17.40.37:616][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.18-17.40.37:715][529]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2019.10.18-17.40.38:008][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 129
+[2019.10.18-17.40.38:026][564]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 128
+[2019.10.18-17.40.38:351][601]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 127
+[2019.10.18-17.40.38:504][619]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 126
+[2019.10.18-17.40.38:538][623]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 125
+[2019.10.18-17.40.38:640][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 124
+[2019.10.18-17.40.39:122][686]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 123
+[2019.10.18-17.40.39:595][728]LogAssetEditorManager: Opening Asset editor for MaterialFunction /Game/GameJamMasterMaterial/Functions/Normal.Normal
+[2019.10.18-17.40.39:671][728]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.40.39:681][728]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.40.39:690][728]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.40.39:700][728]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.40.39:709][728]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.40.39:728][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2019.10.18-17.40.39:738][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.10.18-17.40.39:747][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.10.18-17.40.39:756][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2019.10.18-17.40.39:759][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_2, compiling. 
+[2019.10.18-17.40.39:999][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 143
+[2019.10.18-17.40.40:206][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 142
+[2019.10.18-17.40.40:308][782]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2019.10.18-17.40.40:962][857]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 140
+[2019.10.18-17.40.41:407][908]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 139
+[2019.10.18-17.40.41:711][942]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2019.10.18-17.40.42:308][ 11]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 137
+[2019.10.18-17.40.42:314][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 136
+[2019.10.18-17.40.42:559][ 40]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 135
+[2019.10.18-17.40.43:376][134]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 134
+[2019.10.18-17.40.43:939][199]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 133
+[2019.10.18-17.40.44:099][217]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 132
+[2019.10.18-17.40.44:727][289]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 131
+[2019.10.18-17.40.44:761][293]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2019.10.18-17.40.45:263][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 129
+[2019.10.18-17.40.45:908][424]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2019.10.18-17.40.45:965][431]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 127
+[2019.10.18-17.40.46:321][472]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 126
+[2019.10.18-17.40.47:088][561]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 125
+[2019.10.18-17.40.47:202][574]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 124
+[2019.10.18-17.40.47:375][594]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 123
+[2019.10.18-17.40.47:956][662]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 122
+[2019.10.18-17.40.48:395][713]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 121
+[2019.10.18-17.40.48:710][749]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 120
+[2019.10.18-17.40.48:851][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2019.10.18-17.40.49:032][786]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2019.10.18-17.40.49:032][786]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2019.10.18-17.40.49:411][829]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 116
+[2019.10.18-17.40.49:861][880]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 115
+[2019.10.18-17.40.49:872][881]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 114
+[2019.10.18-17.40.49:912][885]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 113
+[2019.10.18-17.40.50:180][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 112
+[2019.10.18-17.40.50:225][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2019.10.18-17.40.50:277][927]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 110
+[2019.10.18-17.40.50:591][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2019.10.18-17.40.50:600][965]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 108
+[2019.10.18-17.40.50:642][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 107
+[2019.10.18-17.40.50:926][  3]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 106
+[2019.10.18-17.40.50:986][ 10]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2019.10.18-17.40.51:038][ 16]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 104
+[2019.10.18-17.40.51:382][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 103
+[2019.10.18-17.40.51:553][ 75]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 102
+[2019.10.18-17.40.51:572][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2019.10.18-17.40.51:658][ 87]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2019.10.18-17.40.51:826][106]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 99
+[2019.10.18-17.40.51:938][119]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2019.10.18-17.40.51:972][123]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 97
+[2019.10.18-17.40.52:439][177]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2019.10.18-17.40.53:112][244]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2019.10.18-17.40.53:204][254]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2019.10.18-17.40.53:794][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 93
+[2019.10.18-17.40.53:873][327]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2019.10.18-17.40.54:490][397]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2019.10.18-17.40.55:062][459]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2019.10.18-17.40.55:357][491]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2019.10.18-17.40.55:501][507]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 88
+[2019.10.18-17.40.56:254][591]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 87
+[2019.10.18-17.40.56:373][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2019.10.18-17.40.56:555][626]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2019.10.18-17.40.57:027][680]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 84
+[2019.10.18-17.40.57:265][707]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2019.10.18-17.40.57:380][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 82
+[2019.10.18-17.40.57:658][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2019.10.18-17.40.57:779][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2019.10.18-17.40.57:872][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2019.10.18-17.40.58:293][823]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2019.10.18-17.40.58:710][872]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2019.10.18-17.40.58:840][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 76
+[2019.10.18-17.40.58:917][896]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 75
+[2019.10.18-17.40.59:119][919]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 74
+[2019.10.18-17.40.59:369][948]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 73
+[2019.10.18-17.40.59:516][965]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2019.10.18-17.40.59:705][987]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2019.10.18-17.40.59:898][  9]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2019.10.18-17.40.59:992][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.10.18-17.41.00:177][ 41]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2019.10.18-17.41.00:331][ 59]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 67
+[2019.10.18-17.41.00:376][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.10.18-17.41.00:780][109]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.10.18-17.41.00:942][128]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2019.10.18-17.41.01:012][135]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2019.10.18-17.41.01:167][153]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2019.10.18-17.41.01:316][170]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2019.10.18-17.41.01:532][194]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.10.18-17.41.01:622][204]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.10.18-17.41.02:019][250]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.10.18-17.41.03:051][368]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2019.10.18-17.41.03:280][394]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2019.10.18-17.41.03:603][428]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.10.18-17.41.03:854][455]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.10.18-17.41.04:542][532]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.10.18-17.41.05:050][589]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.10.18-17.41.05:087][593]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.10.18-17.41.05:593][649]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2019.10.18-17.41.06:203][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.10.18-17.41.06:473][743]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.10.18-17.41.06:764][776]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.10.18-17.41.07:157][821]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.10.18-17.41.07:429][851]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.10.18-17.41.07:473][856]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.10.18-17.41.07:640][875]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.10.18-17.41.07:902][902]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.10.18-17.41.08:247][939]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.10.18-17.41.08:464][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2019.10.18-17.41.08:810][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.10.18-17.41.09:095][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.10.18-17.41.09:205][ 50]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.10.18-17.41.09:381][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.10.18-17.41.10:093][150]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2019.10.18-17.41.10:241][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.10.18-17.41.10:293][173]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.10.18-17.41.10:530][201]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.10.18-17.41.10:865][240]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.10.18-17.41.10:950][250]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.10.18-17.41.11:111][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.10.18-17.41.11:379][300]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.10.18-17.41.11:598][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.10.18-17.41.11:725][341]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.10.18-17.41.11:904][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.10.18-17.41.11:940][366]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.10.18-17.41.12:109][385]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.10.18-17.41.12:218][397]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.12:219][397]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.12:219][397]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.12:222][397]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.12:245][397]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.10.18-17.41.12:249][397]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.10.18-17.41.12:253][397]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.12:253][397]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.12:253][397]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.12:257][397]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.12:269][397]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.12:352][405]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.10.18-17.41.12:731][448]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.10.18-17.41.12:777][453]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.10.18-17.41.13:220][505]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.10.18-17.41.13:279][512]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.10.18-17.41.13:478][535]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.10.18-17.41.13:910][584]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.14:445][646]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.17:326][982]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.17:327][982]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.17:327][982]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.17:330][982]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.17:353][983]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.17:353][983]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.17:353][983]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.19:016][175]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.19:017][175]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.19:017][175]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.19:020][175]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.19:044][176]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.19:044][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.19:044][176]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.25:059][891]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.25:060][891]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.25:060][891]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.25:063][891]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.25:071][891]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.25:071][891]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.25:071][891]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.25:076][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2019.10.18-17.41.27:102][129]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.27:103][129]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.27:103][129]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDX(UVs) parameter
+[2019.10.18-17.41.27:107][129]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.27:119][129]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.27:119][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.27:119][129]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.27:126][129]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2019.10.18-17.41.28:809][325]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.28:810][325]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.18-17.41.28:810][325]LogMaterial: Display: 	(Node TextureSampleParameter2D) Missing DDY(UVs) parameter
+[2019.10.18-17.41.28:813][325]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.28:831][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.28:831][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.28:831][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.28:831][325]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.10.18-17.41.28:837][325]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Missing DDY(UVs) parameter
+[2019.10.18-17.41.31:415][627]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.31:424][627]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.31:429][627]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.10.18-17.41.31:429][627]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.31:429][627]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.10.18-17.41.31:440][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.10.18-17.41.31:657][650]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.10.18-17.41.32:091][698]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.10.18-17.41.32:284][720]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.10.18-17.41.32:404][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.10.18-17.41.32:721][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.10.18-17.41.32:886][789]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.10.18-17.41.32:894][790]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.10.18-17.41.33:059][808]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.33:068][808]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.33:085][808]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.10.18-17.41.33:407][845]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.10.18-17.41.33:564][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.10.18-17.41.33:684][877]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.10.18-17.41.33:971][908]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.10.18-17.41.34:025][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.10.18-17.41.34:383][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.41.34:453][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.10.18-17.41.34:759][998]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.41.34:765][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.10.18-17.41.34:765][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.10.18-17.41.34:768][998]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.41.34:780][998]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.10.18-17.41.35:027][ 26]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.10.18-17.41.35:200][ 46]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.10.18-17.41.35:468][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.10.18-17.41.35:682][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.10.18-17.41.35:779][105]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.10.18-17.41.36:158][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.10.18-17.41.36:273][160]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.10.18-17.41.36:599][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.10.18-17.41.36:889][231]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.18-17.41.59:982][989]LogMaterialEditor: Saving and Compiling material Normal
+[2019.10.18-17.42.00:440][989]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2019.10.18-17.42.00:458][989]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.10.18-17.42.00:458][989]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.10.18-17.42.00:458][989]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.10.18-17.42.00:458][989]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
+[2019.10.18-17.42.00:512][989]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.10.18-17.42.00:651][989]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.10.18-17.42.00:722][989]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.18-17.42.00:789][989]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 269
+[2019.10.18-17.42.00:806][989]LogMaterial: Display: Missing cached shader map for material Material_15, compiling. 
+[2019.10.18-17.42.00:826][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Functions/Normal" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Functions/Normal.uasset" SILENT=true
+[2019.10.18-17.42.00:864][989]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 404
+[2019.10.18-17.42.00:864][989]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/NormalAE1B5BB94C65EF2C848D529E71B912FD.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Functions/Normal.uasset'
+[2019.10.18-17.42.01:321][ 39]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 403
+[2019.10.18-17.42.01:387][ 46]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 402
+[2019.10.18-17.42.01:721][ 84]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 401
+[2019.10.18-17.42.02:005][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 400
+[2019.10.18-17.42.02:085][119]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.18-17.42.02:088][119]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 399
+[2019.10.18-17.42.02:409][120]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 398
+[2019.10.18-17.42.02:409][120]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 397
+[2019.10.18-17.42.02:409][120]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 396
+[2019.10.18-17.42.02:546][135]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 395
+[2019.10.18-17.42.02:925][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 394
+[2019.10.18-17.42.03:165][200]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 393
+[2019.10.18-17.42.03:304][215]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 392
+[2019.10.18-17.42.03:560][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 391
+[2019.10.18-17.42.03:881][278]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 390
+[2019.10.18-17.42.03:921][282]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 389
+[2019.10.18-17.42.04:189][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 388
+[2019.10.18-17.42.04:212][309]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.18-17.42.04:370][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 387
+[2019.10.18-17.42.04:475][337]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 386
+[2019.10.18-17.42.04:788][373]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 385
+[2019.10.18-17.42.04:826][376]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 384
+[2019.10.18-17.42.04:929][388]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 383
+[2019.10.18-17.42.05:605][449]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 382
+[2019.10.18-17.42.05:633][452]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 381
+[2019.10.18-17.42.05:695][459]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 380
+[2019.10.18-17.42.06:135][508]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 379
+[2019.10.18-17.42.06:255][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 378
+[2019.10.18-17.42.06:524][553]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 377
+[2019.10.18-17.42.06:628][565]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 376
+[2019.10.18-17.42.06:996][608]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 375
+[2019.10.18-17.42.07:074][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.18-17.42.07:098][613]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 374
+[2019.10.18-17.42.07:098][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 373
+[2019.10.18-17.42.07:185][613]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 372
+[2019.10.18-17.42.07:375][613]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 371
+[2019.10.18-17.42.07:721][613]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 370
+[2019.10.18-17.42.07:844][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 369
+[2019.10.18-17.42.07:931][613]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 368
+[2019.10.18-17.42.08:001][613]LogSlate: Window 'Save Content' being destroyed
