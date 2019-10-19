@@ -5918,3 +5918,885 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.19-09.15.29:309][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.19-09.15.29:628][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
 [2019.10.19-09.15.29:802][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.19-09.16.34:845][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles37_col.jpg)
+[2019.10.19-09.16.34:957][637]LogTexture: Display: Building textures: Tiles37_col (AutoDXT, 2048X2048)
+[2019.10.19-09.16.36:234][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles37_disp.jpg)
+[2019.10.19-09.16.36:301][637]LogTexture: Display: Building textures: Tiles37_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.16.37:238][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles37_nrm.jpg)
+[2019.10.19-09.16.37:467][637]LogTexture: Display: Building textures: Tiles37_nrm (BC5, 2048X2048)
+[2019.10.19-09.16.38:021][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles37_rgh.jpg)
+[2019.10.19-09.16.38:080][637]LogTexture: Display: Building textures: Tiles37_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.16.38:891][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles51_col.jpg)
+[2019.10.19-09.16.38:997][637]LogTexture: Display: Building textures: Tiles51_col (AutoDXT, 2048X2048)
+[2019.10.19-09.16.40:731][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles51_disp.jpg)
+[2019.10.19-09.16.40:799][637]LogTexture: Display: Building textures: Tiles51_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.16.42:403][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles51_nrm.jpg)
+[2019.10.19-09.16.42:660][637]LogTexture: Display: Building textures: Tiles51_nrm (BC5, 2048X2048)
+[2019.10.19-09.16.43:254][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Tiles51_rgh.jpg)
+[2019.10.19-09.16.43:327][637]LogTexture: Display: Building textures: Tiles51_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.16.45:215][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet03_AO.jpg)
+[2019.10.19-09.16.45:307][637]LogTexture: Display: Building textures: Carpet03_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.16.50:736][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet03_col.jpg)
+[2019.10.19-09.16.51:016][637]LogTexture: Display: Building textures: Carpet03_col (AutoDXT, 2048X2048)
+[2019.10.19-09.16.56:588][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet03_disp.jpg)
+[2019.10.19-09.16.56:671][637]LogTexture: Display: Building textures: Carpet03_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.17.01:735][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet03_nrm.jpg)
+[2019.10.19-09.17.02:021][637]LogTexture: Display: Building textures: Carpet03_nrm (BC5, 2048X2048)
+[2019.10.19-09.17.02:677][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet03_rgh.jpg)
+[2019.10.19-09.17.02:752][637]LogTexture: Display: Building textures: Carpet03_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.17.05:960][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet05_AO.jpg)
+[2019.10.19-09.17.06:036][637]LogTexture: Display: Building textures: Carpet05_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.17.10:708][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet05_col.jpg)
+[2019.10.19-09.17.10:958][637]LogTexture: Display: Building textures: Carpet05_col (AutoDXT, 2048X2048)
+[2019.10.19-09.17.16:821][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet05_disp.jpg)
+[2019.10.19-09.17.16:901][637]LogTexture: Display: Building textures: Carpet05_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.17.21:405][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet05_nrm.jpg)
+[2019.10.19-09.17.21:716][637]LogTexture: Display: Building textures: Carpet05_nrm (BC5, 2048X2048)
+[2019.10.19-09.17.22:402][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet05_rgh.jpg)
+[2019.10.19-09.17.22:479][637]LogTexture: Display: Building textures: Carpet05_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.17.25:731][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet06_AO.jpg)
+[2019.10.19-09.17.25:817][637]LogTexture: Display: Building textures: Carpet06_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.17.31:148][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet06_col.jpg)
+[2019.10.19-09.17.31:392][637]LogTexture: Display: Building textures: Carpet06_col (AutoDXT, 2048X2048)
+[2019.10.19-09.17.37:440][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet06_disp.jpg)
+[2019.10.19-09.17.37:527][637]LogTexture: Display: Building textures: Carpet06_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.17.42:530][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet06_nrm.jpg)
+[2019.10.19-09.17.42:801][637]LogTexture: Display: Building textures: Carpet06_nrm (BC5, 2048X2048)
+[2019.10.19-09.17.43:460][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet06_rgh.jpg)
+[2019.10.19-09.17.43:537][637]LogTexture: Display: Building textures: Carpet06_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.17.46:971][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet10_AO.jpg)
+[2019.10.19-09.17.47:050][637]LogTexture: Display: Building textures: Carpet10_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.17.52:111][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet10_col.jpg)
+[2019.10.19-09.17.52:350][637]LogTexture: Display: Building textures: Carpet10_col (AutoDXT, 2048X2048)
+[2019.10.19-09.17.58:467][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet10_disp.jpg)
+[2019.10.19-09.17.58:547][637]LogTexture: Display: Building textures: Carpet10_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.18.02:966][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet10_nrm.jpg)
+[2019.10.19-09.18.03:270][637]LogTexture: Display: Building textures: Carpet10_nrm (BC5, 2048X2048)
+[2019.10.19-09.18.03:940][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet10_rgh.jpg)
+[2019.10.19-09.18.04:017][637]LogTexture: Display: Building textures: Carpet10_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.18.07:435][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet12_AO.jpg)
+[2019.10.19-09.18.07:515][637]LogTexture: Display: Building textures: Carpet12_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.18.12:324][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet12_col.jpg)
+[2019.10.19-09.18.12:549][637]LogTexture: Display: Building textures: Carpet12_col (AutoDXT, 2048X2048)
+[2019.10.19-09.18.18:449][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet12_disp.jpg)
+[2019.10.19-09.18.18:527][637]LogTexture: Display: Building textures: Carpet12_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.18.22:679][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet12_nrm.jpg)
+[2019.10.19-09.18.22:993][637]LogTexture: Display: Building textures: Carpet12_nrm (BC5, 2048X2048)
+[2019.10.19-09.18.23:668][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet12_rgh.jpg)
+[2019.10.19-09.18.23:791][637]LogTexture: Display: Building textures: Carpet12_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.18.26:899][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet13_AO.jpg)
+[2019.10.19-09.18.26:980][637]LogTexture: Display: Building textures: Carpet13_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.18.31:766][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet13_col.jpg)
+[2019.10.19-09.18.31:989][637]LogTexture: Display: Building textures: Carpet13_col (AutoDXT, 2048X2048)
+[2019.10.19-09.18.37:901][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet13_disp.jpg)
+[2019.10.19-09.18.37:979][637]LogTexture: Display: Building textures: Carpet13_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.18.42:150][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet13_nrm.jpg)
+[2019.10.19-09.18.42:429][637]LogTexture: Display: Building textures: Carpet13_nrm (BC5, 2048X2048)
+[2019.10.19-09.18.43:084][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Carpet13_rgh.jpg)
+[2019.10.19-09.18.43:160][637]LogTexture: Display: Building textures: Carpet13_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.18.46:334][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\DiamondPlate03_col.jpg)
+[2019.10.19-09.18.46:491][637]LogTexture: Display: Building textures: DiamondPlate03_col (AutoDXT, 2048X2048)
+[2019.10.19-09.18.48:694][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\DiamondPlate03_disp.jpg)
+[2019.10.19-09.18.48:769][637]LogTexture: Display: Building textures: DiamondPlate03_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.18.51:707][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\DiamondPlate03_met.jpg)
+[2019.10.19-09.18.51:787][637]LogTexture: Display: Building textures: DiamondPlate03_met (AutoDXT, 2048X2048)
+[2019.10.19-09.18.55:365][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\DiamondPlate03_nrm.jpg)
+[2019.10.19-09.18.55:618][637]LogTexture: Display: Building textures: DiamondPlate03_nrm (BC5, 2048X2048)
+[2019.10.19-09.18.56:245][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\DiamondPlate03_rgh.jpg)
+[2019.10.19-09.18.56:329][637]LogTexture: Display: Building textures: DiamondPlate03_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.19.00:229][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking01_col.jpg)
+[2019.10.19-09.19.00:330][637]LogTexture: Display: Building textures: Leaking01_col (AutoDXT, 2048X1024)
+[2019.10.19-09.19.01:445][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking01_disp.jpg)
+[2019.10.19-09.19.01:515][637]LogTexture: Display: Building textures: Leaking01_disp (AutoDXT, 2048X1024)
+[2019.10.19-09.19.02:615][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking01_mask.jpg)
+[2019.10.19-09.19.02:690][637]LogTexture: Display: Building textures: Leaking01_mask (AutoDXT, 2048X1024)
+[2019.10.19-09.19.04:205][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking01_nrm.jpg)
+[2019.10.19-09.19.04:310][637]LogTexture: Display: Building textures: Leaking01_nrm (BC5, 2048X1024)
+[2019.10.19-09.19.04:629][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking01_rgh.jpg)
+[2019.10.19-09.19.04:685][637]LogTexture: Display: Building textures: Leaking01_rgh (AutoDXT, 2048X1024)
+[2019.10.19-09.19.05:926][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking02_col.jpg)
+[2019.10.19-09.19.06:000][637]LogTexture: Display: Building textures: Leaking02_col (AutoDXT, 2048X1024)
+[2019.10.19-09.19.07:029][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking02_disp.jpg)
+[2019.10.19-09.19.07:065][637]LogTexture: Display: Building textures: Leaking02_disp (AutoDXT, 2048X1024)
+[2019.10.19-09.19.08:077][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking02_mask.jpg)
+[2019.10.19-09.19.08:108][637]LogTexture: Display: Building textures: Leaking02_mask (AutoDXT, 2048X1024)
+[2019.10.19-09.19.08:832][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking02_nrm.jpg)
+[2019.10.19-09.19.08:932][637]LogTexture: Display: Building textures: Leaking02_nrm (BC5, 2048X1024)
+[2019.10.19-09.19.09:213][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leaking02_rgh.jpg)
+[2019.10.19-09.19.09:251][637]LogTexture: Display: Building textures: Leaking02_rgh (AutoDXT, 2048X1024)
+[2019.10.19-09.19.10:279][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leather08_AO.jpg)
+[2019.10.19-09.19.10:327][637]LogTexture: Display: Building textures: Leather08_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.19.11:708][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leather08_col.jpg)
+[2019.10.19-09.19.11:924][637]LogTexture: Display: Building textures: Leather08_col (AutoDXT, 2048X2048)
+[2019.10.19-09.19.16:145][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leather08_disp.jpg)
+[2019.10.19-09.19.16:220][637]LogTexture: Display: Building textures: Leather08_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.19.19:195][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leather08_nrm.jpg)
+[2019.10.19-09.19.19:570][637]LogTexture: Display: Building textures: Leather08_nrm (BC5, 2048X2048)
+[2019.10.19-09.19.20:353][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Leather08_rgh.jpg)
+[2019.10.19-09.19.20:489][637]LogTexture: Display: Building textures: Leather08_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.19.24:389][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Paint02_AO.jpg)
+[2019.10.19-09.19.24:469][637]LogTexture: Display: Building textures: Paint02_AO (AutoDXT, 2048X2048)
+[2019.10.19-09.19.27:244][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Paint02_col.jpg)
+[2019.10.19-09.19.27:337][637]LogTexture: Display: Building textures: Paint02_col (AutoDXT, 2048X2048)
+[2019.10.19-09.19.27:975][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Paint02_disp.jpg)
+[2019.10.19-09.19.28:036][637]LogTexture: Display: Building textures: Paint02_disp (AutoDXT, 2048X2048)
+[2019.10.19-09.19.29:859][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Paint02_nrm.jpg)
+[2019.10.19-09.19.30:107][637]LogTexture: Display: Building textures: Paint02_nrm (BC5, 2048X2048)
+[2019.10.19-09.19.30:725][637]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\ScreamjamAssets\MatSet\Paint02_rgh.jpg)
+[2019.10.19-09.19.30:804][637]LogTexture: Display: Building textures: Paint02_rgh (AutoDXT, 2048X2048)
+[2019.10.19-09.20.00:237][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.20.27:646][324]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Tiles51.Tiles51
+[2019.10.19-09.20.37:735][223]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.20.37:741][223]LogSlate: Window 'Tiles51' being destroyed
+[2019.10.19-09.20.51:723][ 47]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.10.19-09.20.51:779][ 47]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2019.10.19-09.20.51:779][ 47]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.10.19-09.20.51:779][ 47]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.10.19-09.21.01:653][548]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.10.19-09.21.05:228][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.21.05:317][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Tiles51" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Tiles51.uasset" SILENT=true
+[2019.10.19-09.21.05:354][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.19-09.21.05:362][742]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2019.10.19-09.21.05:393][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.19-09.21.05:411][742]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles519ACAF0CE4061FBA47C0D768F022E22E6.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Tiles51.uasset'
+[2019.10.19-09.21.06:246][779]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.10.19-09.21.07:116][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.10.19-09.21.08:401][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.21.08:715][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.10.19-09.21.09:962][887]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.10.19-09.21.10:560][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.10.19-09.21.11:183][887]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.10.19-09.21.11:342][887]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.19-09.21.13:330][887]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.21.13:335][887]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.10.19-09.21.15:472][ 24]LogSlate: Window 'Tiles51' being destroyed
+[2019.10.19-09.21.15:499][ 24]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.21.16:442][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.21.16:605][ 79]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Tiles37.Tiles37
+[2019.10.19-09.21.29:785][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.21.29:867][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Tiles37" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Tiles37.uasset" SILENT=true
+[2019.10.19-09.21.29:899][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.19-09.21.29:909][114]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.21.29:937][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.19-09.21.29:954][114]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles374EC9B8464A8324401795488FF396FDAD.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Tiles37.uasset'
+[2019.10.19-09.21.30:472][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.21.30:552][158]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.21.31:580][211]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Tiles37.Tiles37
+[2019.10.19-09.21.36:767][547]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.22.11:685][ 31]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.22.13:524][136]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Tiles37.Tiles37
+[2019.10.19-09.22.18:662][455]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.22.20:618][676]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.22.21:371][725]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Paint02.Paint02
+[2019.10.19-09.22.43:618][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.22.50:166][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.22.50:272][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Paint02" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Paint02.uasset" SILENT=true
+[2019.10.19-09.22.50:303][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.19-09.22.50:312][832]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.22.50:339][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.22.50:358][832]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02CFA4BB304A93BDB6E106DC9E50356D05.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Paint02.uasset'
+[2019.10.19-09.22.50:804][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.22.50:899][874]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.22.52:114][952]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Paint02.Paint02
+[2019.10.19-09.23.03:890][872]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.23.05:217][ 16]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.23.06:353][ 80]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Leather08.Leather08
+[2019.10.19-09.23.26:200][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.23.39:613][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.23.44:217][499]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.23.44:220][499]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.10.19-09.23.46:571][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Leather08" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leather08.uasset" SILENT=true
+[2019.10.19-09.23.46:602][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.19-09.23.46:611][657]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.23.46:638][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.23.46:660][657]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08D74396C443D921BC3AD59ABD851E32B8.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leather08.uasset'
+[2019.10.19-09.23.47:238][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.23.47:332][705]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.23.48:564][770]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Carpet03.Carpet03
+[2019.10.19-09.24.01:473][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.24.23:031][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.24.23:117][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet03" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet03.uasset" SILENT=true
+[2019.10.19-09.24.23:152][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.19-09.24.23:162][892]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.24.23:190][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.24.23:209][892]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet039D81552C4D1EE64E000C839B742A29F0.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet03.uasset'
+[2019.10.19-09.24.28:157][ 10]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.24.33:415][ 65]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.24.39:274][130]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.24.44:577][209]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.24.48:111][272]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.24.51:660][537]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.25.16:596][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.25.22:343][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet05" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet05.uasset" SILENT=true
+[2019.10.19-09.25.22:374][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.19-09.25.22:382][ 52]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2019.10.19-09.25.22:410][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.25.22:429][ 52]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet0538FC65244CDE5B25DC1F61B7BCC448A2.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet05.uasset'
+[2019.10.19-09.25.23:145][104]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.25.32:725][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.25.38:033][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet06" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet06.uasset" SILENT=true
+[2019.10.19-09.25.38:063][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.19-09.25.38:072][138]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.25.38:099][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.19-09.25.38:117][138]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06FCCD86044A94203E2D218388779F440E.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet06.uasset'
+[2019.10.19-09.25.39:967][275]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.25.47:199][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.25.51:606][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet10" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet10.uasset" SILENT=true
+[2019.10.19-09.25.51:638][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.19-09.25.51:647][ 79]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.25.51:674][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.19-09.25.51:693][ 79]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10788294B346233531A145CE8DA5D4AF38.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet10.uasset'
+[2019.10.19-09.25.52:614][146]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.26.03:369][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.26.03:479][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet12" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet12.uasset" SILENT=true
+[2019.10.19-09.26.03:510][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.19-09.26.03:519][898]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2019.10.19-09.26.03:546][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.26.03:564][898]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12C8052A974B094DF0526E6888FA67CF06.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet12.uasset'
+[2019.10.19-09.26.04:255][947]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.26.17:289][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.26.17:407][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpet13" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet13.uasset" SILENT=true
+[2019.10.19-09.26.17:437][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.19-09.26.17:447][882]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2019.10.19-09.26.17:474][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.19-09.26.17:492][882]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13786635264CC19D5919CD13B9EE6A1EBC.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpet13.uasset'
+[2019.10.19-09.26.18:060][923]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.26.28:696][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet03" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet03.uasset" SILENT=true
+[2019.10.19-09.26.28:714][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03027CFF374809CE31BC66A6BFA7E7B8C9.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet03.uasset'
+[2019.10.19-09.26.28:731][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet05" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet05.uasset" SILENT=true
+[2019.10.19-09.26.28:752][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05CC61008A466332021ED495ABF35B5897.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet05.uasset'
+[2019.10.19-09.26.28:768][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet06" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet06.uasset" SILENT=true
+[2019.10.19-09.26.28:787][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet0665AA1F98407B8A1326731488FA2A7A3B.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet06.uasset'
+[2019.10.19-09.26.28:803][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet10" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet10.uasset" SILENT=true
+[2019.10.19-09.26.28:823][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10B3B4F3094B7E84843EE6DE9D1994071F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet10.uasset'
+[2019.10.19-09.26.28:839][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet12" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet12.uasset" SILENT=true
+[2019.10.19-09.26.28:861][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12A371780E4D18170E7FF17F86910FEF83.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet12.uasset'
+[2019.10.19-09.26.28:877][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Carpets/Carpet13" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet13.uasset" SILENT=true
+[2019.10.19-09.26.28:903][626]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13FA89A636474BE5EB68639FB0FC99014D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Carpets/Carpet13.uasset'
+[2019.10.19-09.26.29:515][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.19-09.26.29:542][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.19-09.26.29:567][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.19-09.26.29:594][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.19-09.26.29:623][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.26.29:650][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.26.29:681][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.19-09.26.29:709][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.10.19-09.26.40:836][264]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Tiles51.Tiles51
+[2019.10.19-09.26.50:393][934]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.26.52:035][118]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.26.54:383][252]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Leaking01.Leaking01
+[2019.10.19-09.27.19:514][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.27.22:579][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Leaking01" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking01.uasset" SILENT=true
+[2019.10.19-09.27.22:610][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.19-09.27.22:619][353]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.27.22:646][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.27.22:661][353]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01D33599A74DB3A064BFE5568698444542.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking01.uasset'
+[2019.10.19-09.27.26:871][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.27.33:195][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.27.36:956][989]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.19-09.27.38:912][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Leaking01" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking01.uasset" SILENT=true
+[2019.10.19-09.27.38:967][119]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking011503B46E43B5BFF55B91948F27C135DA.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking01.uasset'
+[2019.10.19-09.27.39:700][170]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.27.41:266][265]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/Leaking02.Leaking02
+[2019.10.19-09.28.04:117][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.28.08:911][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/Leaking02" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking02.uasset" SILENT=true
+[2019.10.19-09.28.08:940][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.19-09.28.08:950][342]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.28.08:977][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.28.08:992][342]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking029F4DA1CE4A5BB9B56847C285B14F039C.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/Leaking02.uasset'
+[2019.10.19-09.28.10:943][491]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.28.18:855][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet03" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet03.uasset" SILENT=true
+[2019.10.19-09.28.18:874][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet039FCDA25F47C8BA2445C5C88EC28EE311.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet03.uasset'
+[2019.10.19-09.28.18:890][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet13" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet13.uasset" SILENT=true
+[2019.10.19-09.28.18:911][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet1312F8405E446D30B51BC94FA5C43CC620.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet13.uasset'
+[2019.10.19-09.28.18:926][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet12" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet12.uasset" SILENT=true
+[2019.10.19-09.28.18:945][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12009EFC214FD28D6A7DF50AAF8A3DBB26.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet12.uasset'
+[2019.10.19-09.28.18:959][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet10" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet10.uasset" SILENT=true
+[2019.10.19-09.28.18:985][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet106D61F5F241B7D9049A8FF38EDD6FF826.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet10.uasset'
+[2019.10.19-09.28.19:000][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet06" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet06.uasset" SILENT=true
+[2019.10.19-09.28.19:019][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06F74985ED403F33639C5DE692D844695F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet06.uasset'
+[2019.10.19-09.28.19:034][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Carpets/Carpet05" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet05.uasset" SILENT=true
+[2019.10.19-09.28.19:057][137]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05960F315043E7597A17B187A9BF9D7488.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Carpets/Carpet05.uasset'
+[2019.10.19-09.28.19:635][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.19-09.28.19:661][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.19-09.28.19:686][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.28.19:715][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.19:741][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.28.19:768][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.19:799][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.19-09.28.19:825][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.22:284][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Leather08" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Leather08.uasset" SILENT=true
+[2019.10.19-09.28.22:303][333]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08A06E3FF04978CDE4F9915AA8DD13A981.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Leather08.uasset'
+[2019.10.19-09.28.22:445][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.28.22:478][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.19-09.28.22:503][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.19-09.28.25:311][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Decals/Leaking01" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Decals/Leaking01.uasset" SILENT=true
+[2019.10.19-09.28.25:328][554]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking016282AEFC4331F574BF30F887AC166FBC.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Decals/Leaking01.uasset'
+[2019.10.19-09.28.25:343][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Decals/Leaking02" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Decals/Leaking02.uasset" SILENT=true
+[2019.10.19-09.28.25:359][554]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking029821821949D37D60812AFCB2BD40CF6C.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Decals/Leaking02.uasset'
+[2019.10.19-09.28.25:615][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.28.25:641][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.28.25:674][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.10.19-09.28.25:699][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.19-09.28.29:304][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Ceramic/Tiles37" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Ceramic/Tiles37.uasset" SILENT=true
+[2019.10.19-09.28.29:322][847]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles3778C3FE6C4CE9A3C367BCF788E3040A7F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Ceramic/Tiles37.uasset'
+[2019.10.19-09.28.29:337][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Ceramic/Tiles51" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Ceramic/Tiles51.uasset" SILENT=true
+[2019.10.19-09.28.29:354][847]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles519E889EB6477BCF25A714B399EBC82034.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Ceramic/Tiles51.uasset'
+[2019.10.19-09.28.29:594][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.29:621][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.19-09.28.29:653][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.19-09.28.29:680][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-09.28.32:840][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Construction/Paint02" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Paint02.uasset" SILENT=true
+[2019.10.19-09.28.32:860][138]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02F3707F664E3ADC75E74561AC94BFEEFB.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Paint02.uasset'
+[2019.10.19-09.28.33:004][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.33:036][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.19-09.28.33:063][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.19-09.28.36:279][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.19-09.28.37:432][330]LogSlate: Window 'Save Content' being destroyed
+[2019.10.19-09.28.37:462][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet03_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_AO.uasset" SILENT=true
+[2019.10.19-09.28.37:775][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03_AO0DCDF738472FED3690031BA79AA6A10B.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_AO.uasset'
+[2019.10.19-09.28.37:788][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet03_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_col.uasset" SILENT=true
+[2019.10.19-09.28.38:387][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03_colC455C56944F764489B1B07A2DDC2EB4A.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_col.uasset'
+[2019.10.19-09.28.38:399][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet03_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_disp.uasset" SILENT=true
+[2019.10.19-09.28.38:692][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03_disp86B838534D4424BAA6E21695751DAB28.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_disp.uasset'
+[2019.10.19-09.28.38:704][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet03_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_nrm.uasset" SILENT=true
+[2019.10.19-09.28.39:745][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03_nrm8396DCE040A7B9708026D1984CC751EE.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_nrm.uasset'
+[2019.10.19-09.28.39:757][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet03_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_rgh.uasset" SILENT=true
+[2019.10.19-09.28.39:984][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet03_rgh974CE43C48D63E46AC694F8E8374AF29.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet03_rgh.uasset'
+[2019.10.19-09.28.39:996][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet05_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_AO.uasset" SILENT=true
+[2019.10.19-09.28.40:267][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05_AOAF9F9A934E7BE9786767BDBB5B3AFD2F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_AO.uasset'
+[2019.10.19-09.28.40:278][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet05_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_col.uasset" SILENT=true
+[2019.10.19-09.28.41:066][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05_col04DC9164456297F3480BD8BF6C654D70.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_col.uasset'
+[2019.10.19-09.28.41:078][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet05_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_disp.uasset" SILENT=true
+[2019.10.19-09.28.41:339][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05_disp0A47B53D4C4421E7F764C59A6385C07D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_disp.uasset'
+[2019.10.19-09.28.41:350][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet05_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_nrm.uasset" SILENT=true
+[2019.10.19-09.28.42:414][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05_nrm827CBA9C42C8B24F13FA9AB4691C89D2.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_nrm.uasset'
+[2019.10.19-09.28.42:426][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet05_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_rgh.uasset" SILENT=true
+[2019.10.19-09.28.42:644][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet05_rghEA8EFC39431EC610C109A6A58810A6AB.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet05_rgh.uasset'
+[2019.10.19-09.28.42:655][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet06_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_AO.uasset" SILENT=true
+[2019.10.19-09.28.42:962][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06_AOAAB2FB5648CA79CD9385FE95FC9E1D7D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_AO.uasset'
+[2019.10.19-09.28.42:973][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet06_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_col.uasset" SILENT=true
+[2019.10.19-09.28.43:686][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06_colA4F26837426024D5A32BE7B04EE39C2D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_col.uasset'
+[2019.10.19-09.28.43:699][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet06_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_disp.uasset" SILENT=true
+[2019.10.19-09.28.43:986][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06_dispCD380EEA41A7CA8C5F9AC68B9CE1B6F7.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_disp.uasset'
+[2019.10.19-09.28.43:999][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet06_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_nrm.uasset" SILENT=true
+[2019.10.19-09.28.45:074][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06_nrmE809CE6E4AA54A9C44C2538098A01254.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_nrm.uasset'
+[2019.10.19-09.28.45:086][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet06_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_rgh.uasset" SILENT=true
+[2019.10.19-09.28.45:312][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet06_rgh62BD483F49E73AD3B6D0CF841DA32B28.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet06_rgh.uasset'
+[2019.10.19-09.28.45:324][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet10_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_AO.uasset" SILENT=true
+[2019.10.19-09.28.45:594][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10_AO1007E97F4D95B61CA1632B9105584FC0.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_AO.uasset'
+[2019.10.19-09.28.45:605][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet10_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_col.uasset" SILENT=true
+[2019.10.19-09.28.46:382][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10_col432E336F4815602CFD6E229E01028268.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_col.uasset'
+[2019.10.19-09.28.46:394][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet10_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_disp.uasset" SILENT=true
+[2019.10.19-09.28.46:650][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10_disp3B9D09BF41E8A2D1D25CDA9C7B0F69EE.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_disp.uasset'
+[2019.10.19-09.28.46:662][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet10_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_nrm.uasset" SILENT=true
+[2019.10.19-09.28.47:694][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10_nrm7B4CBBE446E7B5907840A0BB22789855.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_nrm.uasset'
+[2019.10.19-09.28.47:705][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet10_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_rgh.uasset" SILENT=true
+[2019.10.19-09.28.47:924][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet10_rghFD4FCF1B49DCAC6D72C79FB0B5FB71EC.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet10_rgh.uasset'
+[2019.10.19-09.28.47:935][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet12_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_AO.uasset" SILENT=true
+[2019.10.19-09.28.48:197][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12_AOBA2F56764C477A9EBB2C68AFD09A725F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_AO.uasset'
+[2019.10.19-09.28.48:209][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet12_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_col.uasset" SILENT=true
+[2019.10.19-09.28.48:870][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12_col74CF00924075539D2CF60F9C7E320202.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_col.uasset'
+[2019.10.19-09.28.48:882][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet12_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_disp.uasset" SILENT=true
+[2019.10.19-09.28.49:114][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12_disp00F040A7495064519F74908179DB11A1.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_disp.uasset'
+[2019.10.19-09.28.49:127][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet12_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_nrm.uasset" SILENT=true
+[2019.10.19-09.28.50:132][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12_nrm8DF6133541F716A4882A76B7FAADD830.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_nrm.uasset'
+[2019.10.19-09.28.50:143][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet12_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_rgh.uasset" SILENT=true
+[2019.10.19-09.28.50:460][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet12_rghC41CE9CC42BDDEF597AEE08463EE7B37.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet12_rgh.uasset'
+[2019.10.19-09.28.50:472][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet13_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_AO.uasset" SILENT=true
+[2019.10.19-09.28.50:726][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13_AO07DC4F704BD3E83B2642719CBDBF3BD5.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_AO.uasset'
+[2019.10.19-09.28.50:737][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet13_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_col.uasset" SILENT=true
+[2019.10.19-09.28.51:475][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13_col7857682C451DFCDA266C83B79EA06744.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_col.uasset'
+[2019.10.19-09.28.51:488][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet13_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_disp.uasset" SILENT=true
+[2019.10.19-09.28.51:746][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13_dispD1F0D29D47D16EE476BE038C260F34B1.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_disp.uasset'
+[2019.10.19-09.28.51:758][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet13_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_nrm.uasset" SILENT=true
+[2019.10.19-09.28.52:828][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13_nrm9B1BF8FF424FE582491D869565B65D5B.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_nrm.uasset'
+[2019.10.19-09.28.52:840][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Carpet13_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_rgh.uasset" SILENT=true
+[2019.10.19-09.28.53:063][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Carpet13_rghDE22B33647DC78904BD8DBAD4A7F94BD.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Carpet13_rgh.uasset'
+[2019.10.19-09.28.53:074][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/DiamondPlate03_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_col.uasset" SILENT=true
+[2019.10.19-09.28.53:732][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03_colEC6C8F034154552C4A5C1C98F67B6AFE.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_col.uasset'
+[2019.10.19-09.28.53:743][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/DiamondPlate03_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_disp.uasset" SILENT=true
+[2019.10.19-09.28.53:973][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03_dispC0474C0542A56EDC94686A895B9E44AD.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_disp.uasset'
+[2019.10.19-09.28.53:984][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/DiamondPlate03_met" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_met.uasset" SILENT=true
+[2019.10.19-09.28.54:221][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03_metAAA3738B42711AF7727A13826D558AEC.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_met.uasset'
+[2019.10.19-09.28.54:258][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/DiamondPlate03_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_nrm.uasset" SILENT=true
+[2019.10.19-09.28.55:149][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03_nrm659B4A7F475EA7BE8C9CD3BCEF1C316A.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_nrm.uasset'
+[2019.10.19-09.28.55:160][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/DiamondPlate03_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_rgh.uasset" SILENT=true
+[2019.10.19-09.28.55:405][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03_rgh3366501047423B1FDD41319CF37C3640.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/DiamondPlate03_rgh.uasset'
+[2019.10.19-09.28.55:413][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking01_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_col.uasset" SILENT=true
+[2019.10.19-09.28.55:662][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01_col38605F334076F6FAA3CF28829FE8A815.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_col.uasset'
+[2019.10.19-09.28.55:670][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking01_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_disp.uasset" SILENT=true
+[2019.10.19-09.28.55:768][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01_disp1A59417C4C63C7A2E2D73084FB17A3E3.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_disp.uasset'
+[2019.10.19-09.28.55:776][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking01_mask" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_mask.uasset" SILENT=true
+[2019.10.19-09.28.55:883][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01_maskF780872E4752B57106E9F99786F3979A.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_mask.uasset'
+[2019.10.19-09.28.55:891][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking01_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_nrm.uasset" SILENT=true
+[2019.10.19-09.28.56:239][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01_nrmBDF4B7094EBF81E54E9E4DA027ADF3AB.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_nrm.uasset'
+[2019.10.19-09.28.56:248][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking01_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_rgh.uasset" SILENT=true
+[2019.10.19-09.28.56:351][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking01_rghB24007004727D0E8864C9B9430564B01.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking01_rgh.uasset'
+[2019.10.19-09.28.56:360][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking02_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_col.uasset" SILENT=true
+[2019.10.19-09.28.56:622][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking02_col7B0730964791E7F76C3628BCD087DDB1.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_col.uasset'
+[2019.10.19-09.28.56:631][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking02_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_disp.uasset" SILENT=true
+[2019.10.19-09.28.56:725][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking02_dispDEA005F348E2B0D7FD03759DCFE9233B.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_disp.uasset'
+[2019.10.19-09.28.56:733][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking02_mask" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_mask.uasset" SILENT=true
+[2019.10.19-09.28.56:825][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking02_mask96A3265449336B0EA712D7B8368994D2.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_mask.uasset'
+[2019.10.19-09.28.56:834][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking02_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_nrm.uasset" SILENT=true
+[2019.10.19-09.28.57:181][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking02_nrm4A53244E46ACA26C787CBAB7D8BCF55F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_nrm.uasset'
+[2019.10.19-09.28.57:189][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leaking02_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_rgh.uasset" SILENT=true
+[2019.10.19-09.28.57:296][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leaking02_rghF6F2A18E4CBE7F85A779488F012371BF.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leaking02_rgh.uasset'
+[2019.10.19-09.28.57:308][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leather08_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_AO.uasset" SILENT=true
+[2019.10.19-09.28.57:439][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08_AO96BC7A2A42CB3FD6CEF35D9516FBF6A1.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_AO.uasset'
+[2019.10.19-09.28.57:450][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leather08_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_col.uasset" SILENT=true
+[2019.10.19-09.28.58:101][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08_colCECD9D5F4A453AEB4D026FBDA34B227D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_col.uasset'
+[2019.10.19-09.28.58:113][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leather08_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_disp.uasset" SILENT=true
+[2019.10.19-09.28.58:287][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08_disp3C6B68EB41DF801165B5849C8C158C7F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_disp.uasset'
+[2019.10.19-09.28.58:299][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leather08_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_nrm.uasset" SILENT=true
+[2019.10.19-09.28.59:144][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08_nrmF88188F24C1E70F80E0082B0A1219539.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_nrm.uasset'
+[2019.10.19-09.28.59:156][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Leather08_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_rgh.uasset" SILENT=true
+[2019.10.19-09.28.59:439][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Leather08_rghC329A6D146E728A76D9C3F93CA4D2A5D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Leather08_rgh.uasset'
+[2019.10.19-09.28.59:451][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Paint02_AO" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_AO.uasset" SILENT=true
+[2019.10.19-09.28.59:672][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02_AO0B55206F4C2D65EF388A72AEB3B32327.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_AO.uasset'
+[2019.10.19-09.28.59:684][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Paint02_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_col.uasset" SILENT=true
+[2019.10.19-09.29.00:044][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02_colE0F0D6BC476A4BE4346C69A52BB9E682.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_col.uasset'
+[2019.10.19-09.29.00:055][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Paint02_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_disp.uasset" SILENT=true
+[2019.10.19-09.29.00:250][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02_dispAFB3CD284717D5CB4B58BB9A623B94D1.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_disp.uasset'
+[2019.10.19-09.29.00:262][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Paint02_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_nrm.uasset" SILENT=true
+[2019.10.19-09.29.01:051][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02_nrm996AF9E94E7390925B461B938A3EC648.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_nrm.uasset'
+[2019.10.19-09.29.01:062][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Paint02_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_rgh.uasset" SILENT=true
+[2019.10.19-09.29.01:303][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Paint02_rgh53B7649A4E43176D144C7FBFB62FB8AF.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Paint02_rgh.uasset'
+[2019.10.19-09.29.01:315][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles37_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_col.uasset" SILENT=true
+[2019.10.19-09.29.01:731][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles37_col2C7459CD428F2AF5E7535A8437EEB25C.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_col.uasset'
+[2019.10.19-09.29.01:745][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles37_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_disp.uasset" SILENT=true
+[2019.10.19-09.29.01:917][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles37_dispF30EA6904C3A3B3861792FAB5E2293A0.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_disp.uasset'
+[2019.10.19-09.29.01:929][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles37_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_nrm.uasset" SILENT=true
+[2019.10.19-09.29.02:622][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles37_nrmEB62AE0F4B2933F1252F00BF311A04BA.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_nrm.uasset'
+[2019.10.19-09.29.02:634][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles37_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_rgh.uasset" SILENT=true
+[2019.10.19-09.29.02:806][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles37_rgh69ED73E0487AA5C7D06D58B3825B84BF.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles37_rgh.uasset'
+[2019.10.19-09.29.02:819][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles51_col" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_col.uasset" SILENT=true
+[2019.10.19-09.29.03:239][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles51_col14EC040448A7C79AA0C5C286F9BE7123.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_col.uasset'
+[2019.10.19-09.29.03:252][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles51_disp" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_disp.uasset" SILENT=true
+[2019.10.19-09.29.03:478][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles51_dispE4C7C4254FF375E5E505D5856B2783CB.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_disp.uasset'
+[2019.10.19-09.29.03:491][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles51_nrm" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_nrm.uasset" SILENT=true
+[2019.10.19-09.29.04:463][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles51_nrm1C408E164BA0DF4C003E67A68C6BC9B3.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_nrm.uasset'
+[2019.10.19-09.29.04:475][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/TextureMegapack/Tiles51_rgh" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_rgh.uasset" SILENT=true
+[2019.10.19-09.29.04:681][330]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Tiles51_rgh13D62C6A48D0C67FE4C27D9D807B7138.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/TextureMegapack/Tiles51_rgh.uasset'
+[2019.10.19-09.29.40:878][ 96]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/GameJamMasterMaterial/DiamondPlate03.DiamondPlate03
+[2019.10.19-09.29.55:698][180]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.10.19-09.29.55:790][180]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2019.10.19-09.29.55:790][180]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.10.19-09.29.55:790][180]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.10.19-09.29.57:022][247]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.10.19-09.30.11:990][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.30.12:558][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.10.19-09.30.14:533][229]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2019.10.19-09.30.16:118][323]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2019.10.19-09.30.21:881][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2019.10.19-09.30.21:899][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.10.19-09.30.23:061][703]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2019.10.19-09.30.29:555][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.30.29:649][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameJamMasterMaterial/DiamondPlate03" FILE="D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/DiamondPlate03.uasset" SILENT=true
+[2019.10.19-09.30.29:680][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.19-09.30.29:690][ 51]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-09.30.29:718][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.19-09.30.29:734][ 51]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate03AFB9FE614C1F6F6E909A1EA491FB2F4D.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/GameJamMasterMaterial/DiamondPlate03.uasset'
+[2019.10.19-09.30.30:446][ 93]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2019.10.19-09.30.30:459][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.10.19-09.30.30:480][ 94]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.30.35:299][392]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.10.19-09.30.36:648][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Metals/DiamondPlate03" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Metals/DiamondPlate03.uasset" SILENT=true
+[2019.10.19-09.30.36:665][535]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/DiamondPlate0375A65AFC4CD9FE4D5488BA8B778E3A2F.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Metals/DiamondPlate03.uasset'
+[2019.10.19-09.30.36:822][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.19-09.30.36:857][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.19-09.30.36:891][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.19-09.30.37:608][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.10.19-09.30.39:751][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.19-09.30.40:439][725]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.10.19-09.30.41:125][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.19-09.30.41:586][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.19-09.30.43:098][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.10.19-09.30.43:583][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.30.43:697][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.19-09.30.49:647][937]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.10.19-09.30.49:648][937]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.10.19-09.30.49:648][937]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.10.19-09.30.49:649][937]LogSlate: Window 'Content Browser 2' being destroyed
+[2019.10.19-09.30.51:138][937]LogSlate: Window 'ScreamJam2019 - Unreal Editor' being destroyed
+[2019.10.19-09.30.51:140][937]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.19-09.30.53:357][938]Cmd: QUIT_EDITOR
+[2019.10.19-09.31.19:380][938]LogExit: Preparing to exit.
+[2019.10.19-09.31.36:295][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:296][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:296][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:297][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:297][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:297][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:297][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:297][938]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.31.36:299][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:299][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:300][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:300][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:300][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:300][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:300][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:301][938]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.31.36:304][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:304][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:305][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:305][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:305][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:305][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:306][938]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.19-09.31.36:306][938]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.31.36:383][938]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-09.31.36:388][938]LogExit: Editor shut down
+[2019.10.19-09.31.36:389][938]LogExit: Transaction tracking system shut down
+[2019.10.19-09.31.36:465][938]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.19-09.31.37:571][938]LogExit: Object subsystem successfully closed.
+[2019.10.19-09.31.37:627][938]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.19-09.31.37:728][938]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (682)
+[2019.10.19-09.31.37:729][938]LogModuleManager: Shutting down and abandoning module Voice (680)
+[2019.10.19-09.31.37:730][938]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (676)
+[2019.10.19-09.31.37:730][938]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (674)
+[2019.10.19-09.31.37:730][938]LogModuleManager: Shutting down and abandoning module SceneOutliner (672)
+[2019.10.19-09.31.37:730][938]LogModuleManager: Shutting down and abandoning module AddContentDialog (670)
+[2019.10.19-09.31.37:735][938]LogModuleManager: Shutting down and abandoning module WidgetCarousel (669)
+[2019.10.19-09.31.37:735][938]LogModuleManager: Shutting down and abandoning module EditorWidgets (666)
+[2019.10.19-09.31.37:735][938]LogModuleManager: Shutting down and abandoning module CollectionManager (664)
+[2019.10.19-09.31.37:737][938]LogModuleManager: Shutting down and abandoning module MeshBuilder (662)
+[2019.10.19-09.31.37:737][938]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2019.10.19-09.31.37:738][938]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (658)
+[2019.10.19-09.31.37:738][938]LogModuleManager: Shutting down and abandoning module FoliageEdit (656)
+[2019.10.19-09.31.37:739][938]LogModuleManager: Shutting down and abandoning module LandscapeEditor (654)
+[2019.10.19-09.31.37:742][938]LogModuleManager: Shutting down and abandoning module MeshPaintMode (652)
+[2019.10.19-09.31.37:742][938]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (650)
+[2019.10.19-09.31.37:742][938]LogModuleManager: Shutting down and abandoning module ActorPickerMode (648)
+[2019.10.19-09.31.37:742][938]LogModuleManager: Shutting down and abandoning module GeometryMode (646)
+[2019.10.19-09.31.37:743][938]LogModuleManager: Shutting down and abandoning module TextureAlignMode (644)
+[2019.10.19-09.31.37:743][938]LogModuleManager: Shutting down and abandoning module BspMode (642)
+[2019.10.19-09.31.37:743][938]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (640)
+[2019.10.19-09.31.37:744][938]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (638)
+[2019.10.19-09.31.37:745][938]LogModuleManager: Shutting down and abandoning module AutomationWorker (636)
+[2019.10.19-09.31.37:745][938]LogModuleManager: Shutting down and abandoning module OculusMR (634)
+[2019.10.19-09.31.37:745][938]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (632)
+[2019.10.19-09.31.37:745][938]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (630)
+[2019.10.19-09.31.37:747][938]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (628)
+[2019.10.19-09.31.37:752][938]LogModuleManager: Shutting down and abandoning module PlacementMode (627)
+[2019.10.19-09.31.37:752][938]LogModuleManager: Shutting down and abandoning module MaterialEditor (626)
+[2019.10.19-09.31.37:752][938]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (622)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (620)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (618)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (616)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (614)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module WebMMedia (612)
+[2019.10.19-09.31.37:754][938]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (610)
+[2019.10.19-09.31.37:757][938]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (608)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module SequenceRecorder (607)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (604)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (602)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (600)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (598)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (596)
+[2019.10.19-09.31.37:759][938]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (594)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (592)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (590)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (588)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (586)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (584)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module CharacterAI (582)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module SmartSnapping (580)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module SessionServices (578)
+[2019.10.19-09.31.37:760][938]LogModuleManager: Shutting down and abandoning module MeshPaint (576)
+[2019.10.19-09.31.37:761][938]LogModuleManager: Shutting down and abandoning module ViewportSnapping (574)
+[2019.10.19-09.31.37:761][938]LogModuleManager: Shutting down and abandoning module ViewportInteraction (572)
+[2019.10.19-09.31.37:762][938]LogModuleManager: Shutting down and abandoning module ClothPainter (570)
+[2019.10.19-09.31.37:763][938]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (569)
+[2019.10.19-09.31.37:766][938]LogModuleManager: Shutting down and abandoning module LogVisualizer (566)
+[2019.10.19-09.31.37:768][938]LogModuleManager: Shutting down and abandoning module IntroTutorials (564)
+[2019.10.19-09.31.37:769][938]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (563)
+[2019.10.19-09.31.37:770][938]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (560)
+[2019.10.19-09.31.37:770][938]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (558)
+[2019.10.19-09.31.37:771][938]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (556)
+[2019.10.19-09.31.37:771][938]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (554)
+[2019.10.19-09.31.37:771][938]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (553)
+[2019.10.19-09.31.39:135][938]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (550)
+[2019.10.19-09.31.39:135][938]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (548)
+[2019.10.19-09.31.39:135][938]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (546)
+[2019.10.19-09.31.39:135][938]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (544)
+[2019.10.19-09.31.39:136][938]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (542)
+[2019.10.19-09.31.39:136][938]LogModuleManager: Shutting down and abandoning module InputBindingEditor (540)
+[2019.10.19-09.31.39:136][938]LogModuleManager: Shutting down and abandoning module MergeActors (538)
+[2019.10.19-09.31.39:139][938]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (536)
+[2019.10.19-09.31.39:140][938]LogModuleManager: Shutting down and abandoning module LocalizationService (535)
+[2019.10.19-09.31.39:141][938]LogModuleManager: Shutting down and abandoning module HardwareTargeting (532)
+[2019.10.19-09.31.39:141][938]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (530)
+[2019.10.19-09.31.39:141][938]LogModuleManager: Shutting down and abandoning module UndoHistory (528)
+[2019.10.19-09.31.39:142][938]LogModuleManager: Shutting down and abandoning module XmlParser (526)
+[2019.10.19-09.31.39:142][938]LogModuleManager: Shutting down and abandoning module Blutility (524)
+[2019.10.19-09.31.39:142][938]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (522)
+[2019.10.19-09.31.39:142][938]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (521)
+[2019.10.19-09.31.39:143][938]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (518)
+[2019.10.19-09.31.39:143][938]LogModuleManager: Shutting down and abandoning module SettingsEditor (516)
+[2019.10.19-09.31.39:145][938]LogModuleManager: Shutting down and abandoning module ProjectLauncher (514)
+[2019.10.19-09.31.39:146][938]LogModuleManager: Shutting down and abandoning module SessionFrontend (512)
+[2019.10.19-09.31.39:146][938]LogModuleManager: Shutting down and abandoning module ProfilerClient (510)
+[2019.10.19-09.31.39:147][938]LogModuleManager: Shutting down and abandoning module DeviceManager (508)
+[2019.10.19-09.31.39:148][938]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (507)
+[2019.10.19-09.31.39:193][938]LogModuleManager: Shutting down and abandoning module AutomationController (504)
+[2019.10.19-09.31.39:195][938]LogModuleManager: Shutting down and abandoning module AutomationWindow (502)
+[2019.10.19-09.31.39:196][938]LogModuleManager: Shutting down and abandoning module Layers (500)
+[2019.10.19-09.31.39:199][938]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (498)
+[2019.10.19-09.31.39:199][938]LogModuleManager: Shutting down and abandoning module DetailCustomizations (496)
+[2019.10.19-09.31.39:199][938]LogModuleManager: Shutting down and abandoning module PackagesDialog (494)
+[2019.10.19-09.31.39:199][938]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (492)
+[2019.10.19-09.31.39:202][938]LogModuleManager: Shutting down and abandoning module Persona (490)
+[2019.10.19-09.31.39:205][938]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (489)
+[2019.10.19-09.31.39:205][938]LogModuleManager: Shutting down and abandoning module AnimGraph (487)
+[2019.10.19-09.31.39:205][938]LogModuleManager: Shutting down and abandoning module Kismet (484)
+[2019.10.19-09.31.39:210][938]LogModuleManager: Shutting down and abandoning module KismetWidgets (483)
+[2019.10.19-09.31.39:211][938]LogModuleManager: Shutting down and abandoning module GraphEditor (480)
+[2019.10.19-09.31.39:211][938]LogModuleManager: Shutting down and abandoning module StructViewer (478)
+[2019.10.19-09.31.39:211][938]LogModuleManager: Shutting down and abandoning module ClassViewer (476)
+[2019.10.19-09.31.39:211][938]LogModuleManager: Shutting down and abandoning module Toolbox (474)
+[2019.10.19-09.31.39:211][938]LogModuleManager: Shutting down and abandoning module ModuleUI (472)
+[2019.10.19-09.31.39:212][938]LogModuleManager: Shutting down and abandoning module MovieSceneTools (470)
+[2019.10.19-09.31.39:213][938]LogModuleManager: Shutting down and abandoning module OutputLog (468)
+[2019.10.19-09.31.39:227][938]LogModuleManager: Shutting down and abandoning module GammaUI (466)
+[2019.10.19-09.31.39:227][938]LogModuleManager: Shutting down and abandoning module Documentation (464)
+[2019.10.19-09.31.39:228][938]LogModuleManager: Shutting down and abandoning module LiveCoding (462)
+[2019.10.19-09.31.39:229][938]LogModuleManager: Shutting down and abandoning module LevelSequence (460)
+[2019.10.19-09.31.39:229][938]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (458)
+[2019.10.19-09.31.39:229][938]LogModuleManager: Shutting down and abandoning module MovieScene (456)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (454)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module LauncherPlatform (452)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module AnalyticsET (450)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2019.10.19-09.31.39:230][938]LogModuleManager: Shutting down and abandoning module AIModule (442)
+[2019.10.19-09.31.39:231][938]LogModuleManager: Shutting down and abandoning module GameplayDebugger (441)
+[2019.10.19-09.31.39:231][938]LogModuleManager: Shutting down and abandoning module AITestSuite (439)
+[2019.10.19-09.31.39:232][938]LogModuleManager: Shutting down and abandoning module NavigationSystem (437)
+[2019.10.19-09.31.39:232][938]LogModuleManager: Shutting down and abandoning module DesktopPlatform (434)
+[2019.10.19-09.31.39:232][938]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (432)
+[2019.10.19-09.31.39:236][938]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2019.10.19-09.31.39:252][938]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2019.10.19-09.31.39:264][938]LogModuleManager: Shutting down and abandoning module ScreenshotTools (426)
+[2019.10.19-09.31.39:264][938]LogModuleManager: Shutting down and abandoning module SteamVRController (424)
+[2019.10.19-09.31.39:264][938]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (422)
+[2019.10.19-09.31.39:264][938]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2019.10.19-09.31.39:272][938]LogModuleManager: Shutting down and abandoning module OculusEditor (418)
+[2019.10.19-09.31.39:277][938]LogModuleManager: Shutting down and abandoning module OculusInput (416)
+[2019.10.19-09.31.39:277][938]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (414)
+[2019.10.19-09.31.39:277][938]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2019.10.19-09.31.39:286][938]LogModuleManager: Shutting down and abandoning module VivoxVoiceChat (396)
+[2019.10.19-09.31.39:308][938]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.10.19-09.31.39:331][938]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.10.19-09.31.39:342][938]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.10.19-09.31.39:342][938]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.10.19-09.31.39:343][938]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.10.19-09.31.39:343][938]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.10.19-09.31.39:343][938]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.10.19-09.31.39:344][938]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.10.19-09.31.39:345][938]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.10.19-09.31.39:349][938]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.10.19-09.31.39:350][938]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.10.19-09.31.39:351][938]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.10.19-09.31.39:352][938]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.10.19-09.31.39:355][938]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.10.19-09.31.39:357][938]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.10.19-09.31.39:359][938]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.10.19-09.31.39:360][938]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.10.19-09.31.39:360][938]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.10.19-09.31.39:361][938]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2019.10.19-09.31.39:364][938]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2019.10.19-09.31.39:465][938]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2019.10.19-09.31.39:566][938]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2019.10.19-09.31.39:566][938]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2019.10.19-09.31.39:566][938]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2019.10.19-09.31.39:566][938]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2019.10.19-09.31.39:567][938]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2019.10.19-09.31.39:567][938]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.19-09.31.39:567][938]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2019.10.19-09.31.39:567][938]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2019.10.19-09.31.39:567][938]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2019.10.19-09.31.39:568][938]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2019.10.19-09.31.39:568][938]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2019.10.19-09.31.39:568][938]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2019.10.19-09.31.39:568][938]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2019.10.19-09.31.39:570][938]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2019.10.19-09.31.39:572][938]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2019.10.19-09.31.39:573][938]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2019.10.19-09.31.39:574][938]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.10.19-09.31.39:574][938]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.10.19-09.31.39:575][938]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2019.10.19-09.31.39:579][938]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2019.10.19-09.31.39:579][938]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2019.10.19-09.31.39:579][938]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2019.10.19-09.31.39:579][938]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2019.10.19-09.31.39:580][938]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2019.10.19-09.31.39:581][938]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2019.10.19-09.31.39:582][938]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2019.10.19-09.31.39:582][938]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2019.10.19-09.31.39:582][938]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2019.10.19-09.31.39:582][938]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2019.10.19-09.31.39:584][938]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2019.10.19-09.31.39:584][938]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2019.10.19-09.31.39:584][938]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2019.10.19-09.31.39:584][938]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2019.10.19-09.31.39:585][938]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2019.10.19-09.31.39:585][938]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2019.10.19-09.31.39:585][938]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2019.10.19-09.31.39:588][938]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2019.10.19-09.31.39:589][938]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2019.10.19-09.31.39:591][938]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2019.10.19-09.31.39:591][938]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2019.10.19-09.31.39:591][938]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2019.10.19-09.31.39:592][938]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2019.10.19-09.31.39:597][938]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2019.10.19-09.31.39:597][938]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2019.10.19-09.31.39:600][938]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2019.10.19-09.31.39:600][938]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2019.10.19-09.31.39:600][938]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2019.10.19-09.31.39:602][938]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2019.10.19-09.31.39:603][938]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2019.10.19-09.31.39:603][938]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2019.10.19-09.31.39:604][938]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2019.10.19-09.31.39:606][938]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2019.10.19-09.31.39:607][938]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2019.10.19-09.31.39:607][938]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2019.10.19-09.31.39:608][938]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2019.10.19-09.31.39:608][938]LogDerivedDataCache: Shutdown
+[2019.10.19-09.31.39:608][938]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2019.10.19-09.31.39:608][938]LogXGEController: Cleaning working directory: C:/Users/divIT/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.19-09.31.39:608][938]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2019.10.19-09.31.39:609][938]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2019.10.19-09.31.39:609][938]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2019.10.19-09.31.39:610][938]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2019.10.19-09.31.39:611][938]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2019.10.19-09.31.39:611][938]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2019.10.19-09.31.39:612][938]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2019.10.19-09.31.39:613][938]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2019.10.19-09.31.39:613][938]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2019.10.19-09.31.39:613][938]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2019.10.19-09.31.39:628][938]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2019.10.19-09.31.39:628][938]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2019.10.19-09.31.39:628][938]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2019.10.19-09.31.39:629][938]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2019.10.19-09.31.39:629][938]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2019.10.19-09.31.39:635][938]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2019.10.19-09.31.39:635][938]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2019.10.19-09.31.39:639][938]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2019.10.19-09.31.39:639][938]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2019.10.19-09.31.39:675][938]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2019.10.19-09.31.39:675][938]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2019.10.19-09.31.39:676][938]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2019.10.19-09.31.39:677][938]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.10.19-09.31.39:677][938]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.19-09.31.39:677][938]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.10.19-09.31.39:679][938]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.10.19-09.31.39:679][938]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.10.19-09.31.39:679][938]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.10.19-09.31.39:679][938]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.10.19-09.31.39:683][938]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.19-09.31.39:685][938]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.19-09.31.39:717][938]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.19-09.31.39:717][938]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.19-09.31.39:717][938]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D05E001-4893-DF80-DE0D-DEBD99DBFD0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=0d6bc60c49bf6cfd094c9eb7cf68ada9%7Cc875a2d274b3412284145f5285eb8c7c%7C1ab4ab04-ef8b-4ae7-8d96-f5f5f431c9ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.19-09.31.39:735][938]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.19-09.31.39:739][938]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.19-09.31.39:742][938]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.19-09.31.39:743][938]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.19-09.31.39:743][938]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.19-09.31.39:744][938]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.19-09.31.39:744][938]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.19-09.31.39:744][938]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.19-09.31.39:744][938]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.19-09.31.39:745][938]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.19-09.31.39:745][938]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.19-09.31.39:747][938]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.19-09.31.39:747][938]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.19-09.31.39:747][938]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.19-09.31.39:747][938]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.19-09.31.39:751][938]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.19-09.31.39:752][938]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.19-09.31.39:752][938]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.19-09.31.39:753][938]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.19-09.31.39:754][938]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.19-09.31.39:754][938]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.19-09.31.39:754][938]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.19-09.31.39:754][938]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.19-09.31.39:754][938]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.19-09.31.39:755][938]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.19-09.31.39:755][938]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.19-09.31.39:755][938]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.19-09.31.39:764][938]LogD3D11RHI: Shutdown
+[2019.10.19-09.31.39:764][938]LogD3D11RHI: CleanupD3DDevice
+[2019.10.19-09.31.39:769][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-09.31.39:769][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-09.31.39:769][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-09.31.39:773][938]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.19-09.31.39:779][938]LogExit: Exiting.
+[2019.10.19-09.31.39:808][938]Log file closed, 10/19/19 11:31:39
