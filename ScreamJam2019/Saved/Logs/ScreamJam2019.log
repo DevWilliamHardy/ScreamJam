@@ -5663,3 +5663,258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.19-08.10.05:089][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
 [2019.10.19-08.10.05:667][516]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOut6795F72B4483C723E9F002AFF223D50C.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap'
 [2019.10.19-08.10.06:962][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.48.21:151][704]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallPlain44)
+[2019.10.19-08.48.21:213][704]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-08.48.45:509][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain245)
+[2019.10.19-08.48.57:644][545]Cmd: SELECT NONE
+[2019.10.19-08.49.02:070][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.06:446][518]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.06:446][518]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.09:210][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.13:910][324]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.13:910][324]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.14:776][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.16:197][549]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.16:197][549]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.17:167][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.20:840][ 50]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.20:840][ 50]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.21:970][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.23:092][248]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.23:092][248]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.25:600][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.30:559][999]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.30:559][999]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.31:018][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.33:828][364]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.33:828][364]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.35:081][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.49.35:995][550]Cmd: TRANSACTION UNDO
+[2019.10.19-08.49.35:995][550]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.49.36:806][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.50.09:924][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.19-08.50.09:925][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Maps/BlockOut" FILE="D:/ScreamJam/ScreamJam2019/Saved/Autosaves/Game/Framework/Maps/BlockOut_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.19-08.50.10:461][665]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOut_Auto2B25EDBA4452D3DC6C38AB6B9003B043E.tmp' to 'D:/ScreamJam/ScreamJam2019/Saved/Autosaves/Game/Framework/Maps/BlockOut_Auto2.umap'
+[2019.10.19-08.50.10:465][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Framework/Maps/BlockOut' took 0.569
+[2019.10.19-08.50.10:465][665]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.569
+[2019.10.19-08.52.40:653][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.52.43:381][534]Cmd: TRANSACTION UNDO
+[2019.10.19-08.52.43:381][534]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.52.44:366][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.52.54:648][838]Cmd: TRANSACTION UNDO
+[2019.10.19-08.52.54:648][838]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.52.55:346][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.52.57:355][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.02:178][677]Cmd: TRANSACTION UNDO
+[2019.10.19-08.53.02:178][677]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.53.02:510][708]Cmd: TRANSACTION UNDO
+[2019.10.19-08.53.02:510][708]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.53.03:175][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.07:094][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.10:690][621]Cmd: TRANSACTION UNDO
+[2019.10.19-08.53.10:690][621]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.53.11:825][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.14:040][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.14:926][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.16:035][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.17:434][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.21:178][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.31:980][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.32:162][929]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Assets/Materials/Construction/Bricks02.Bricks02
+[2019.10.19-08.53.38:561][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.53.53:708][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.02:941][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Construction/Bricks02" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Bricks02.uasset" SILENT=true
+[2019.10.19-08.54.02:971][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.19-08.54.02:980][439]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-08.54.03:007][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.19-08.54.03:035][439]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Bricks021C69F61840B0D43ED1934185385B7DD4.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Bricks02.uasset'
+[2019.10.19-08.54.08:160][ 48]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.08:160][ 48]LogEditorTransaction: Undo Edit Normal Flatten Intensity
+[2019.10.19-08.54.08:821][104]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.08:821][104]LogEditorTransaction: Undo Edit Normal Flatten Intensity
+[2019.10.19-08.54.09:373][163]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.09:373][163]LogEditorTransaction: Undo Normal Flatten Intensity Edit Condition Changed
+[2019.10.19-08.54.09:806][210]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.09:807][210]LogEditorTransaction: Undo Normal Map Edit Condition Changed
+[2019.10.19-08.54.10:604][301]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.10:604][301]LogEditorTransaction: Undo Normal Map Edit Condition Changed
+[2019.10.19-08.54.11:000][344]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.11:000][344]LogEditorTransaction: Undo Roughness Map Edit Condition Changed
+[2019.10.19-08.54.11:199][363]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.11:199][363]LogEditorTransaction: Undo Roughness Map Edit Condition Changed
+[2019.10.19-08.54.11:390][382]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.11:390][382]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.11:587][401]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.11:587][401]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.13:316][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.13:468][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.19-08.54.13:486][618]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-08.54.13:513][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.19-08.54.13:533][618]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-08.54.16:006][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.19:333][270]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.19:333][270]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.20:829][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.22:087][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.23:037][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.25:789][957]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.25:789][957]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.25:987][970]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.25:987][970]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.26:133][978]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.26:133][978]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.27:403][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.29:945][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.31:636][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.33:290][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.35:234][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.36:452][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.38:266][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.40:070][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.41:404][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.50:441][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.54:371][ 59]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.54:371][ 59]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.54:810][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.55:898][206]Cmd: TRANSACTION UNDO
+[2019.10.19-08.54.55:898][206]LogEditorTransaction: Undo Create Actors
+[2019.10.19-08.54.56:208][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.54.59:875][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.00:046][664]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Assets/Materials/Construction/Concrete04.Concrete04
+[2019.10.19-08.55.06:354][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.13:765][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.14:820][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.19-08.55.14:838][341]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2019.10.19-08.55.14:865][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.19-08.55.14:887][341]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-08.55.19:954][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.23:890][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.26:077][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.27:610][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.29:720][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.37:263][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain244)
+[2019.10.19-08.55.42:546][395]Cmd: TRANSACTION UNDO
+[2019.10.19-08.55.42:546][395]LogEditorTransaction: Undo Move Actors
+[2019.10.19-08.55.45:859][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.55.51:791][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.05:609][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.12:311][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.16:884][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.23:276][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.30:781][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.34:892][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.56.35:092][688]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Assets/Materials/Metals/Metal12.Metal12
+[2019.10.19-08.56.36:990][885]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Assets/Materials/Metals/Metal09.Metal09
+[2019.10.19-08.56.38:944][ 90]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-08.56.40:194][231]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-08.56.53:349][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain259)
+[2019.10.19-08.56.59:167][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.02:436][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain294)
+[2019.10.19-08.57.06:981][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.08:572][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain231)
+[2019.10.19-08.57.09:906][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.12:189][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain241)
+[2019.10.19-08.57.19:273][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.22:113][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain249)
+[2019.10.19-08.57.25:685][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.31:797][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain239)
+[2019.10.19-08.57.33:261][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.34:320][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor687)
+[2019.10.19-08.57.44:495][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain310)
+[2019.10.19-08.57.48:581][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.54:163][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.57.59:000][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.58.22:936][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain252)
+[2019.10.19-08.58.43:174][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.58.49:042][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.58.51:047][363]Cmd: TRANSACTION UNDO
+[2019.10.19-08.58.51:047][363]LogEditorTransaction: Undo Replace component used material
+[2019.10.19-08.58.52:551][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.02:514][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.12:398][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.21:993][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.28:239][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.33:131][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.36:267][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-08.59.42:717][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.00.05:410][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.00.23:645][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.00.40:025][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.00.46:075][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.00.51:350][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor721)
+[2019.10.19-09.00.56:937][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor726)
+[2019.10.19-09.01.00:063][873]Cmd: TRANSACTION UNDO
+[2019.10.19-09.01.00:063][873]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.19-09.01.07:979][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.01.14:643][300]Cmd: SELECT NONE
+[2019.10.19-09.01.21:382][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.01.49:573][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.01.58:768][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.02.01:783][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.02.03:442][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.02.18:746][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor727)
+[2019.10.19-09.02.24:834][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.02.40:201][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.02.45:474][904]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.02.54:261][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.03.01:798][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.03.06:208][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain262)
+[2019.10.19-09.03.08:399][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.03.14:052][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor730)
+[2019.10.19-09.03.20:914][311]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor730)
+[2019.10.19-09.03.20:937][311]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.03.21:470][344]Cmd: SELECT NONE
+[2019.10.19-09.03.21:693][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain117)
+[2019.10.19-09.03.22:463][438]Cmd: SELECT NONE
+[2019.10.19-09.03.30:060][347]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.03.43:611][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain71)
+[2019.10.19-09.04.01:065][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.04.19:699][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain71)
+[2019.10.19-09.04.20:884][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.04.24:822][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor521)
+[2019.10.19-09.04.30:039][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.04.35:762][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.04.53:954][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.05.03:984][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor667)
+[2019.10.19-09.05.14:236][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.05.16:837][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain167)
+[2019.10.19-09.05.29:943][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.05.39:101][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.05.44:643][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.06.00:798][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor761)
+[2019.10.19-09.06.02:588][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor762)
+[2019.10.19-09.06.05:958][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.06.15:908][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain255)
+[2019.10.19-09.06.24:632][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.06.31:414][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain306)
+[2019.10.19-09.06.34:592][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.06.38:557][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallPlain302)
+[2019.10.19-09.06.42:169][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.06.54:814][490]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.06.54:821][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Maps/BlockOut" FILE="D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-09.06.54:854][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.19-09.06.55:399][490]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOutA2B71A5A489D40D6DBE03A96BFC13411.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap'
+[2019.10.19-09.07.23:305][638]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.07.23:313][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Maps/BlockOut" FILE="D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-09.07.23:344][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.19-09.07.23:876][638]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOut73BD1A8340A1BCC15B1CB183F7B42B82.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap'
+[2019.10.19-09.07.30:381][271]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.07.30:392][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Maps/BlockOut" FILE="D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-09.07.30:422][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.19-09.07.30:959][271]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOut1E5513534F9A7D158F4F18A76A7EEFB7.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap'
+[2019.10.19-09.07.31:246][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.07.33:580][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.19-09.07.34:668][403]LogSlate: Window 'Save Content' being destroyed
+[2019.10.19-09.07.34:678][403]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.07.34:694][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Construction/Bricks02" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Bricks02.uasset" SILENT=true
+[2019.10.19-09.07.34:725][403]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Bricks025CFBF3E1419183FD75AAE8A7D808E02E.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Bricks02.uasset'
+[2019.10.19-09.07.34:740][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets/Materials/Construction/Concrete04" FILE="D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Concrete04.uasset" SILENT=true
+[2019.10.19-09.07.34:775][403]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/Concrete04C7F70F0E44F5A71F11CA68A456093DDE.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Assets/Assets/Materials/Construction/Concrete04.uasset'
+[2019.10.19-09.07.35:678][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.15.28:200][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.19-09.15.28:212][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Maps/BlockOut" FILE="D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-09.15.28:244][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.19-09.15.28:822][ 48]LogSavePackage: Moving 'D:/ScreamJam/ScreamJam2019/Saved/BlockOut59475BED43472578409BF393B25B6D06.tmp' to 'D:/ScreamJam/ScreamJam2019/Content/Framework/Maps/BlockOut.umap'
+[2019.10.19-09.15.29:309][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-09.15.29:628][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.10.19-09.15.29:802][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
