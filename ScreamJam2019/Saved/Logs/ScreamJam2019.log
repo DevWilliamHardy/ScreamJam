@@ -7012,3 +7012,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.19-19.12.24:320][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2019.10.19-19.12.24:321][898]LogEditorActor: Deleted 1 Actors (0.098 secs)
 [2019.10.19-19.12.28:316][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-19.14.08:295][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.19-19.14.08:463][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.19-19.14.08:843][934]LogSavePackage: Moving '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Saved/MP_Level12282159E48E87D6271A3519EADABEBDC.tmp' to '../../../../../../Users/mriml/Documents/repos/ScreamJam/ScreamJam/ScreamJam2019/Content/Framework/Multiplayer/Maps/MP_Level1.umap'
+[2019.10.19-19.14.08:901][934]LogFileHelpers: Saving map 'MP_Level1' took 0.534
