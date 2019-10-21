@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Git-Hub\ScreamJam\ScreamJam2019\Intermediate\Build\Win64\ScreamJam2019Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Git-Hub\ScreamJam\ScreamJam2019\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\Git-Hub\ScreamJam\ScreamJam2019\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\Git-Hub\ScreamJam\ScreamJam2019\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"D:\Git-Hub\ScreamJam\ScreamJam2019\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
