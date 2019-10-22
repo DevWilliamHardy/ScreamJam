@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 10/20/19 23:18:30
+=======
+﻿Log file open, 10/21/19 15:38:43
+>>>>>>> origin/Will
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: ScreamJam2019
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.232448
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.141023
+>>>>>>> origin/Will
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -100,6 +109,7 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
+<<<<<<< HEAD
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.1.1
@@ -3283,3 +3293,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.20-23.23.16:962][116]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.10.20-23.23.16:968][116]LogExit: Exiting.
 [2019.10.20-23.23.17:013][116]Log file closed, 10/21/19 01:23:17
+=======
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Warning: Incompatible or missing module: ScreamJam2019
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+LogModuleManager: Shutting down and abandoning module RenderCore (30)
+LogModuleManager: Shutting down and abandoning module Landscape (28)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 10/21/19 15:38:50
+>>>>>>> origin/Will
