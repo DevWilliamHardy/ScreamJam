@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AutoLightmapAdjuster.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ScreamJam\ScreamJam2019\Intermediate\Build\Win64\ScreamJam2019Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Intermediate\Build\Win64\UE4Editor\Development\AutoLightmapAdjuster\Module.AutoLightmapAdjuster.cpp.obj"
+"D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Intermediate\Build\Win64\UE4Editor\Development\AutoLightmapAdjuster\Default.rc2.res"
+/OUT:"D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Intermediate\Build\Win64\UE4Editor\Development\AutoLightmapAdjuster\UE4Editor-AutoLightmapAdjuster.lib"
+/INCLUDE:IMPLEMENT_MODULE_AutoLightmapAdjuster

@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AutoLightmapAdjuster.cpp.obj": [
+			"AutoLightmapAdjuster.cpp.obj",
+			"AutoLightmapAdjusterCommands.cpp.obj",
+			"AutoLightmapAdjusterStyle.cpp.obj"
+		]
+	}
+}

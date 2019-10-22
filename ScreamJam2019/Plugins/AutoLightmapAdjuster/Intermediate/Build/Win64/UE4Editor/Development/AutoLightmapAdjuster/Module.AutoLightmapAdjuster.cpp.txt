@@ -1,0 +1,38 @@
+D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Intermediate\Build\Win64\UE4Editor\Development\AutoLightmapAdjuster\Definitions.AutoLightmapAdjuster.h
+D:/ScreamJam/ScreamJam2019/Plugins/AutoLightmapAdjuster/Source/AutoLightmapAdjuster/Private/AutoLightmapAdjuster.cpp
+D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Source\AutoLightmapAdjuster\Public\AutoLightmapAdjuster.h
+D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Source\AutoLightmapAdjuster\Public\AutoLightmapAdjusterStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\ScreamJam\ScreamJam2019\Plugins\AutoLightmapAdjuster\Source\AutoLightmapAdjuster\Public\AutoLightmapAdjusterCommands.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+c:\program files\epic games\ue_4.23\engine\source\editor\leveleditor\public\ILevelEditor.h
+c:\program files\epic games\ue_4.23\engine\source\editor\leveleditor\public\ViewportTypeDefinition.h
+D:/ScreamJam/ScreamJam2019/Plugins/AutoLightmapAdjuster/Source/AutoLightmapAdjuster/Private/AutoLightmapAdjusterCommands.cpp
+D:/ScreamJam/ScreamJam2019/Plugins/AutoLightmapAdjuster/Source/AutoLightmapAdjuster/Private/AutoLightmapAdjusterStyle.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\CustomBuildSteps.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\LocalizationDescriptor.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
